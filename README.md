@@ -22,5 +22,3 @@ git push -u origin main
 ```
 
 # 2.对有道云笔记的移值
-
-![image-20250730235125428](assets/image-20250730235125428.png)

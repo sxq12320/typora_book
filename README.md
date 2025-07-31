@@ -22,3 +22,6 @@ git push -u origin main
 ```
 
 # 2.对有道云笔记的移值
+
+这里对该笔记主要是采用notion进行的
+

@@ -1,0 +1,127 @@
+# 1 哔哩哔哩图床的创建以及使用方法
+
+[TOC]
+
+---
+
+## 1 引言
+
+> 这里在使用**bilibili图床**的过程中难免会造成一些不必要的后果因此使用过程需要谨慎同时出现任何奇怪的问题请自行解决
+>
+> 这里将不会做任何的一些处理
+>
+> 本文章的全部内容均是寄托于**bilibili图床**之中的
+
+众所周知很多的同学都喜欢使用markdown进行笔记的一些记录和创建，但是在记录自己的笔记亦或者做自己的个人博客的时候难免会出现图片的使用以及引用方法，我们常见的文本编辑工具Word是一种富文本编辑器，他的图片可以直接放置在本地，比较稳定，同样各大markdown笔记软件也是可以将自己笔记中的软件以一个本地的形式防止自己的`Assits`文件夹之中。
+
+尽管防止在本地可以防止网络等个大问题，但是在进行博客的发布以及笔记的迁移的过程是非常的困难的，因此部署一个比较合适的图床就显得尤为重要。
+
+常见的图床部署大多数都是直接使用`阿里云`、`腾讯云`、`123云盘`、`GitHub`、`Gitee`等的`oss`存储库进行建立，但是前三者要钱，如果访问量的数据过大或者被人家恶意盗刷，说不定哪一天自己的房子都没了，如果采用一定的防盗措施，则需要一定的门槛基础，对于我这种新手小白尤其的不友好。后面两个一个是国外的网站，太不稳定了，另一个已经不怎么给使用了，因此使用一个免费高效，好用简答的图床是非常的重要的。
+
+前段时间在网上冲浪的时候无意间看到了**bilibili图床**的配置方法，便进行了自己的配置，发现还是非常好用的因此给大家进行一下分享。
+
+话不多说，让我们直接开始B站的薅羊毛操作吧！
+
+
+
+---
+
+## 2 配置思路
+
+这里我们的配置主要就是采用一个开源软件`picgo`进行图床的上传，配合typora自动复制到网络。
+
+这次的配置主要有下面几个比较重要的事情
+
+1. 已经下载完毕软件`picgo`。                                                 
+2. 拥有一个自己的`bilibili账号`。
+3. 能够进入`tyopra`的界面进行使用(无论什么方法)。
+
+
+
+---
+
+## 3 配置`picgo`上传
+
+### 3.1 `picgo`的下载
+
+首先在浏览器内直接搜索`picgo`并找到`github`的一个图标。
+
+![image-20250819084917977](https://i0.hdslb.com/bfs/openplatform/cf9876da98409aed792ce41b843f4a06038d5e10.png)
+
+单击`PicGo`进入这个界面。
+
+![image-20250819085021774](https://i0.hdslb.com/bfs/openplatform/494a46d421e0867eb0803621288d7cf01b8a587b.png)
+
+单击`快速开始`按钮，并将页面缓慢拉下到下载安装的窗口，同时复制`GitHub Release`下载源的地址 ， [GitHub下载链接](https://github.com/Molunerfinn/PicGo/releases)
+
+![image-20250819085222428](https://i0.hdslb.com/bfs/openplatform/5d899d1d1b9dbfbe1b06cabc250cf43f7ecfa59c.png)
+
+现在将该链接复制到自己的浏览器之中并下载下面这一个链接。
+
+![image-20250819085604466](https://i0.hdslb.com/bfs/openplatform/9d1faf9ed3edcad5254fe94da01a86bad5c2788b.png)
+
+点一下这个链接就可以直接下载了，注意国内下载速度比较缓慢，需要稍微等待一下。
+
+![image-20250819090140684](https://raw.githubusercontent.com/sxq12320/typora_book/main/img/20250819090140718.png)
+
+下载完成后双击自己的下载文件一直下一步傻瓜式安装即可完成`picgo`的安装下载了。
+
+> 注意一定要记得自己的`picgo`的安装位置，在后面配置`typora`时候非常重要。
+
+### 3.2 `picgo`的配置
+
+安装好了后双击打开自己的`picgo`软件
+
+![image-20250819090111262](https://raw.githubusercontent.com/sxq12320/typora_book/main/img/20250819090111308.png)
+
+单击下面的插件设置并在搜索框中搜索`bilibili`
+
+![image-20250819090246255](https://raw.githubusercontent.com/sxq12320/typora_book/main/img/20250819090246300.png)
+
+直接点击安装即可，安装完成会显示已安装的字样，现在点击图床设置，并找到`bilibili图床`进入参数配置的界面。
+
+![image-20250819090445513](https://raw.githubusercontent.com/sxq12320/typora_book/main/img/20250819090445569.png)
+
+在浏览器中找到进入`bilibili官网`，并注册登录`bilibili的账号`，并保持在主页面。
+
+![image-20250819091818729](https://raw.githubusercontent.com/sxq12320/typora_book/main/img/20250819091818913.png)
+
+键盘上单击`F12`,进入开发者选项复制下面的两个东西
+
+![image-20250819092124144](https://i0.hdslb.com/bfs/openplatform/daae67304c6ac3e801b6e9d07cb2ea63cd808380.png)
+
+将`SESSDATA`复制到`picgo`的`SESSDATA`中；将`bili_jct`复制到`picgo`的`csrf`中
+
+![image-20250819092328114](https://i0.hdslb.com/bfs/openplatform/982c8e5431090eadb9411a5291e9884b01adc02d.png)
+
+搞定了之后直接点击完成，并将bilibili图床设置到上传区中
+
+![image-20250819092433792](https://i0.hdslb.com/bfs/openplatform/a1a521cc06fc18c5c2eda9318f43d4f211839986.png)
+
+尝试一下上传图片，成功即可完成`picgo`的配置
+
+![image-20250819092546298](https://i0.hdslb.com/bfs/openplatform/530d1b2f2c90c0f422833ef04d986ebaedf1fbf3.png)
+
+
+
+---
+
+## 4 链接`picgo`和`typora`
+
+现在将`picgo`和`typora`进行链接，令每次进行复制粘贴的时候都可以进行自动上传的功能。
+
+首先在`typora`的官网下载`typora`并安装，安装好之后激活`typora`。激活的方法可以自行百度搜索。
+
+![image-20250819092816017](https://i0.hdslb.com/bfs/openplatform/4d3f77384d7c3ea3de1e2cb83095bc8272cd0714.png)
+
+进入typora的软件之后，在文件菜单内选择偏好设置
+
+![image-20250819092928652](https://i0.hdslb.com/bfs/openplatform/9599e25ffd1d2980cef35857abdc303236f28ce1.png)
+
+![image-20250819093254643](https://i0.hdslb.com/bfs/openplatform/451de7d7aa6506f39f610b52f051b4d8765bae28.png)
+
+并选择下面几个选项，将`picgo`和`typora`进行链接即可
+
+![image-20250819093005867](https://i0.hdslb.com/bfs/openplatform/4e3b3605cafb82df5fdb01363a246999669080ad.png)
+
+完成后点击验证图片上传选项，确认无误后便实现了预定的要求。

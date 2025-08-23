@@ -180,7 +180,91 @@ pip install manim
 
 ### 4.1 安装意义
 
+该环境的安装主要是因为需要利用**李沐老师动手学习深度学习课程**中的代码，因此需要配置该环境。
+
+这个环境的配置前提需要有一个`window`s的电脑，同时电脑里面的硬件`GPU`是英伟达的显卡才可以。
+
+安装比较复杂那么开始进行安装
+
 ### 4.2 安装说明
 
+进入`annaconda prompt`中。
 
+> 1. 创建一个全新的环境。
 
+```bash
+conda create -n d2l python=3.8 -y
+```
+
+![屏幕录制 2025-08-23 101741](https://raw.githubusercontent.com/sxq12320/typora_book/main/img/20250823101802007.gif)
+
+> 2. 进入李沐老师的课程主页下载`jubyter记事本`，目的是为了搞一个测试代码罢了，当然如果有测试代码也可以不进行下载。
+
+```bash
+https://zh-v2.d2l.ai/
+```
+
+![屏幕录制 2025-08-23 102239](https://raw.githubusercontent.com/sxq12320/typora_book/main/img/20250823102304030.gif)
+
+> 3. 下载合适自己的`torch`
+
+首先进入[PyTorch官网](https://pytorch.org/)
+
+![image-20250823102535729](https://i0.hdslb.com/bfs/openplatform/ab1cfc9ab0721efbd854bed0c6f0a9a6021aed8c.png)
+
+单击上面黄色的`get started`
+
+后面根据[CUDA GPU Compute Capability | NVIDIA Developer](https://developer.nvidia.com/cuda-gpus)这个网站的表格匹配自己电脑的显卡和CUDA版本。
+
+电脑进入`CMD`界面
+
+输入代码
+
+```python
+nvidia-smi
+```
+
+![image-20250823103232306](https://i0.hdslb.com/bfs/openplatform/98c7d6244ad4dbb3b19985724ef789b219d9d035.png)
+
+红色圈圈里面的表示支持的最高版本，一定不可以超过这个版本哈。
+
+确认完毕后单击这个历史版本选择适合自己电脑的版本进行`pip`安装
+
+![image-20250823103014350](https://i0.hdslb.com/bfs/openplatform/975a0d153ccf0ecd5499258197ed5ee92d8daadb.png)
+
+![image-20250823103600161](https://i0.hdslb.com/bfs/openplatform/37bc1750e173dd711db8631aa2780f77a24b2df9.png)
+
+选择好之后便可以进行安装了
+
+> 4. 进入Prompt界面，输入上面复制的代码
+
+```python
+conda activate d2l
+pip install torch==1.13.1+cu116 torchvision==0.14.1+cu116 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu116
+```
+
+便可以自动完成安装了。
+
+当然也可以先下载轮子后安装，这个差距不大。
+
+>5. 然后进入`juypter`进行代码编辑即可。
+
+现在给出`juypter`默认位置修改的方法
+
+进入电脑的下面位置的文件夹
+
+```python
+C:\Users\用户名\.jupyter
+```
+
+![image-20250823104339990](https://i0.hdslb.com/bfs/openplatform/d42dd37c195c4911c3d2ecae1c337907e350b29d.png)
+
+用记事本打开这个文件，并搜索。
+
+```python
+c.NotebookApp.notebook_dir 
+```
+
+将下面这个东西修改成你喜欢的位置即可
+
+![image-20250823104447799](https://i0.hdslb.com/bfs/openplatform/87fcca31bd8e351587eeeb33a70ddc1a6543ab31.png)

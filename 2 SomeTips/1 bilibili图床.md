@@ -1,4 +1,4 @@
-# 1 哔哩哔哩图床的创建以及使用方法
+# 1 图床的创建以及使用方法
 
 [TOC]
 
@@ -125,3 +125,10 @@
 ![image-20250819093005867](https://i0.hdslb.com/bfs/openplatform/4e3b3605cafb82df5fdb01363a246999669080ad.png)
 
 完成后点击验证图片上传选项，确认无误后便实现了预定的要求。
+
+# 2 `github`图床链接
+
+```html
+https://raw.githubusercontent.com/sxq12320/typora_book/main
+https://cdn.jsdelivr.net/gh/sxq12320/typora_book/main
+```

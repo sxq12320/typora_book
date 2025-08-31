@@ -49,3 +49,5 @@ This directory mainly comprises software operation guides and environment config
 ## 3 OpenProject
 
 This folder primarily consists of notes regarding my open-source video projects on Bilibili, potentially including substantial code implementations and corresponding video scripts.
+
+ok that is all.

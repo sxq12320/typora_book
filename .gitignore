@@ -1,0 +1,49 @@
+# --- 操作系统生成的文件 ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# --- Obsidian 软件相关 ---
+# 忽略整个 .obsidian 目录的除 manifest.json 和社区插件列表外的所有内容
+# 这样可以备份你的插件列表和设置，但不备份插件缓存等巨大且不必要的文件
+.obsidian/
+!.obsidian/manifest.json
+!.obsidian/community-plugins.json
+# !.obsidian/core-plugins.json # 如果你也想备份核心插件设置，可以取消注释这行
+.obsidian/workspace.json
+.obsidian/workspace
+
+# --- Node.js 相关 (因为很多 Obsidian 插件是基于 Node.js 的) ---
+# 依赖目录
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 运行时数据
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# 覆盖率目录
+coverage/
+.nyc_output
+
+# 环境变量文件（非常重要！永远不要提交密钥）
+.env
+.env.test
+.env.production
+.env.local
+
+# 日志
+logs
+*.log
+
+# 可选：如果你不想提交构建产物
+dist/
+build/

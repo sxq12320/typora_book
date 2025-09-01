@@ -47,3 +47,5 @@ logs
 # 可选：如果你不想提交构建产物
 dist/
 build/
+
+rs-test-folder-*/

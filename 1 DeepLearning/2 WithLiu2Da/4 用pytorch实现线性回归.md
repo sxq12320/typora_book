@@ -1,5 +1,7 @@
 #  4 用pytorch实现线性回归
 
+> B站学习的视频链接 [用pytorch实现线性回归](https://www.bilibili.com/video/BV1Y7411d7Ys/?p=5&share_source=copy_web&vd_source=31a1c76ddc1eaa699828c211cc19a5cc)
+
 [TOC]
 
 ## 1 复习引入

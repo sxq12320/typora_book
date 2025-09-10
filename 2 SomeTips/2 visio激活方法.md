@@ -12,27 +12,27 @@
 
 1. 流程图：利用 Visio 强大的流程图功能，将想法变为现实。使用丰富的形状、模具和模板库，以具有影响力的方式传达数字和信息。
 
-![image-20250821084856654](https://i0.hdslb.com/bfs/openplatform/c79ef641b760899e6068d2239935ae1a62f65e4f.png)
+![image-20250821084856654](https://raw.githubusercontent.com/sxq12320/typora_book/main/img_20250908093232863.png)
 
 2. 思维导图：大胆表达你的想法。借助一系列用于可视化问题和规划解决方案的模板，让头脑风暴变得简单且可操作。将思维导图分享至 Microsoft Teams，以扩大协作。
 
-![image-20250821084923718](https://i0.hdslb.com/bfs/openplatform/02575ebaafe7576b69e43f15d0707f639723bd1a.png)
+![image-20250821084923718](https://raw.githubusercontent.com/sxq12320/typora_book/main/img_20250908093234340.png)
 
 3. 组织结构图：轻松地制作组织图表，直观呈现团队、层级或报告结构，然后与员工、团队及利益干系人共享图表。
 
-![image-20250821084949698](https://i0.hdslb.com/bfs/openplatform/07be4e74dfe6125734c66d986dc579a5d411c06d.png)
+![image-20250821084949698](https://raw.githubusercontent.com/sxq12320/typora_book/main/img_20250908093236556.png)
 
 4. 网络图：使用各种网络模板、形状和连接器工具，简化系统设计过程，并说明设备和网络如何协同工作。
 
-![image-20250821085011630](https://i0.hdslb.com/bfs/openplatform/b0e701c37929b10addc91a7f4d4bd0af3c2e8707.png)
+![image-20250821085011630](https://raw.githubusercontent.com/sxq12320/typora_book/main/img_20250908093238399.png)
 
 5. 平面布置图：使用精准且可缩放的模板和工具设计混合工作区、零售店布局、新房等，帮助你直观呈现功能、动线与美学效果。
 
-![image-20250821085101851](https://i0.hdslb.com/bfs/openplatform/1a606c01437ea1a204b90b2a0d44c9ae9e58e2c4.png)
+![image-20250821085101851](https://raw.githubusercontent.com/sxq12320/typora_book/main/img_20250908093241770.png)
 
 6. 信息图时间线：使用信息图为产品发布路线图、营销计划、员工成长计划等项目创建引人入胜的时间线。
 
-![image-20250821085135069](https://i0.hdslb.com/bfs/openplatform/94b603dd70787e56cec19be605a02f7dc5061117.png)
+![image-20250821085135069](https://raw.githubusercontent.com/sxq12320/typora_book/main/img_20250908093245087.png)
 
 > 因此将`visio`的使用就显得尤为重要
 >
@@ -48,13 +48,13 @@
 
 首先在浏览器里面搜索`visio`然后单击下载即可。注意哈`visio`和`word`之类的软件是一样的，我们只能够将其安装在`C盘`之中其他盘符无法安装
 
-![image-20250821085744235](https://i0.hdslb.com/bfs/openplatform/3c25b5a3cdc56bffce43552f913e32ad909fd21d.png)
+![image-20250821085744235](https://raw.githubusercontent.com/sxq12320/typora_book/main/img_20250908093250125.png)
 
 下载完毕之后便会自动进行安装。
 
 安装过程有点缓慢需要等待，安装完毕之后在自己的开始菜单中搜索`visio`便可以看到自己的软件
 
-![image-20250821085921056](https://i0.hdslb.com/bfs/openplatform/fe8338e8ff636ab610f52b9b6c0e57c0eeb83063.png)
+![image-20250821085921056](https://raw.githubusercontent.com/sxq12320/typora_book/main/img_20250908093253709.png)
 
 直接打开这个软件即可，如果可以正常打开说明安装正确了。
 
@@ -72,24 +72,24 @@
 
 1. 首先在开始菜单中右键选择终端管理员
 
-![image-20250821090317632](https://i0.hdslb.com/bfs/openplatform/16bfade63ed87c2ff8bfa25fcb822ea404668cf0.png)
+![image-20250821090317632](https://raw.githubusercontent.com/sxq12320/typora_book/main/img_20250908093256940.png)
 
 2. 在窗口中输入代码指令` irm https://get.activated.win | iex`，输入完毕后`回车`。
 
-![image-20250821090438057](https://i0.hdslb.com/bfs/openplatform/7d7ad00d2d92653b97b1cb8e432ba70f6390349b.png)
+![image-20250821090438057](https://raw.githubusercontent.com/sxq12320/typora_book/main/img_20250908093302234.png)
 
 3. 等待片刻后会弹出一个全新的对话框，请在第一个对话框中输入`2`，在第二个对话框中输入`1`。
 
-![image-20250821090650693](https://i0.hdslb.com/bfs/openplatform/f4e9f016edeea81546744b85fac0e9afb722de6c.png)
+![image-20250821090650693](https://raw.githubusercontent.com/sxq12320/typora_book/main/img_20250908093305761.png)
 
-![image-20250821090709265](https://i0.hdslb.com/bfs/openplatform/1af29ca34b8880fcc954ad975272148748feb134.png)
+![image-20250821090709265](https://raw.githubusercontent.com/sxq12320/typora_book/main/img_20250908093309449.png)
 
 4. `回车`并等待片刻，在跳出下面对话框的时候便已经激活成功可以正常的使用啦。
 
-![image-20250821090821819](https://i0.hdslb.com/bfs/openplatform/75cdc810a6a9f3f1ffc79bdc6b383e7e337c6448.png)
+![image-20250821090821819](https://raw.githubusercontent.com/sxq12320/typora_book/main/img_20250908093313338.png)
 
 5. 现在关闭这些对话框，重新进入`visio`软件之中，进入账户界面可以看到自己的软件已经被成功的激活啦
 
-![image-20250821091013858](https://i0.hdslb.com/bfs/openplatform/2cafc95197ff46d03457a390845fd3671f93a44f.png)
+![image-20250821091013858](https://raw.githubusercontent.com/sxq12320/typora_book/main/img_20250908093319771.png)
 
 > 现在就可以快乐的使用`Visio`进行科研绘图啦。

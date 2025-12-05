@@ -50,3 +50,6 @@ build/
 
 rs-test-folder-*/
 .idea/
+
+*.pptx
+

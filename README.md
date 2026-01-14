@@ -123,3 +123,46 @@ Of course. Here is the official and standardized English translation of the prov
 | **MikTeX**                     | ![MikTeX](https://img2024.cnblogs.com/blog/3693258/202509/3693258-20250911140706047-1973379416.png) | A distribution of the TeX/LaTeX typesetting system.          |
 |                                |                                                              |                                                              |
 |                                |                                                              |                                                              |
+
+```mermaid
+graph TD
+    subgraph Input_Stage [输入阶段]
+        Input(输入图像<br/>Batch x 3 x 128 x 128)
+    end
+
+    subgraph Block_1 [Layer 1: 基础特征提取]
+        Conv1(Conv2d: 3→32<br/>k=3, p=1) --> BN1(BatchNorm + ReLU)
+        BN1 --> Pool1(MaxPool: 2x2)
+        Pool1 -- 32x64x64 --> SE1[<b>SE Attention Block</b><br/>通道注意力加权]
+    end
+
+    subgraph Block_2 [Layer 2: 中层特征提取]
+        SE1 --> Conv2(Conv2d: 32→64<br/>k=3, p=1)
+        Conv2 --> BN2(BatchNorm + ReLU)
+        BN2 --> Pool2(MaxPool: 2x2)
+        Pool2 -- 64x32x32 --> SE2[<b>SE Attention Block</b><br/>通道注意力加权]
+    end
+
+    subgraph Block_3 [Layer 3: 高层特征提取]
+        SE2 --> Conv3(Conv2d: 64→128<br/>k=3, p=1)
+        Conv3 --> BN3(BatchNorm + ReLU)
+        BN3 --> Pool3(MaxPool: 2x2)
+        Pool3 -- 128x16x16 --> SE3[<b>SE Attention Block</b><br/>通道注意力加权]
+    end
+
+    subgraph Classifier [分类头]
+        SE3 --> Flatten(Flatten<br/>展平为一维向量)
+        Flatten -- 向量长度: 32768 --> FC1(Linear: 32768→512<br/>ReLU + Dropout)
+        FC1 --> FC2(Linear: 512→Num_Classes)
+        FC2 --> Output(输出 Logits)
+    end
+
+    Input --> Conv1
+    
+    style SE1 fill:#f9f,stroke:#333,stroke-width:2px
+    style SE2 fill:#f9f,stroke:#333,stroke-width:2px
+    style SE3 fill:#f9f,stroke:#333,stroke-width:2px
+    style Input fill:#e1f5fe
+    style Output fill:#e1f5fe
+```
+

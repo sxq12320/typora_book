@@ -1,4 +1,4 @@
-# CBAM(Convolutional Block Attention Module)
+# $CBAM(Convolutional Block Attention Module)$
 
 > [!NOTE]
 >
@@ -235,6 +235,50 @@ class CBAMBlock(nn.Module):
 ```
 
 
+
+```mermaid
+graph LR
+    %% 定义整体为水平布局
+    direction LR
+
+    %% 输入
+    F_prime["Channel-refined<br>Feature F'<br>(H x W x C)"]
+
+    %% 空间池化
+    subgraph ChannelPooling ["Channel-wise Pooling"]
+        direction TB
+        MaxPool_S["MaxPool"]
+        AvgPool_S["AvgPool"]
+    end
+
+    %% 拼接与卷积
+    Concat["Concatenate"]
+    Conv["Conv Layer<br>(7x7)"]
+    Sigmoid_S(("Sigmoid<br>σ"))
+
+    %% 输出
+    Ms["Spatial Attention Ms<br>(H x W x 1)"]
+
+    %% 连线关系
+    F_prime --> MaxPool_S
+    F_prime --> AvgPool_S
+
+    MaxPool_S -- "HxWx1" --> Concat
+    AvgPool_S -- "HxWx1" --> Concat
+
+    Concat -- "HxWx2" --> Conv
+    Conv --> Sigmoid_S
+    Sigmoid_S --> Ms
+
+    %% 样式美化
+    style F_prime fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
+    style MaxPool_S fill:#90caf9,stroke:#0d47a1
+    style AvgPool_S fill:#ffcc80,stroke:#e65100
+    style Concat fill:#eeeeee,stroke:#616161
+    style Conv fill:#f5f5f5,stroke:#424242
+    style Sigmoid_S fill:#ffffff,stroke:#000000,stroke-width:2px
+    style Ms fill:#e1bee7,stroke:#7b1fa2,stroke-width:2px
+```
 
 
 

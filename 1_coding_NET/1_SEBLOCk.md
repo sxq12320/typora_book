@@ -1,4 +1,4 @@
-# SE Block(Squeeze and Excitation Block)
+# $SE Block(Squeeze and Excitation Block)$
 
 > [!NOTE]
 >

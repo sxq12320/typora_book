@@ -1,4 +1,4 @@
-# MobileNet V1-论文复现研读
+# $MobileNet V1-$论文复现研读
 
 > [!NOTE]
 >

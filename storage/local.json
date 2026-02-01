@@ -1,0 +1,74 @@
+{
+  "local-dialogposition": {
+    "dialog-historydoc": {
+      "height": 653,
+      "left": 92,
+      "top": 81,
+      "width": 1352
+    }
+  },
+  "local-fileposition": {
+    "20200812220555-lj3enxa": {
+      "endId": "20240508001403-j8ceveg",
+      "focusEnd": 2,
+      "focusId": "20240508001024-7bw16f2",
+      "focusStart": 2,
+      "rootId": "20200812220555-lj3enxa",
+      "scrollTop": 1000,
+      "startId": "20251209210725-2e63bop"
+    },
+    "20200813093015-u6bopdt": {
+      "endId": "20230415111923-37gvzqk",
+      "rootId": "20200813093015-u6bopdt",
+      "scrollTop": 0,
+      "startId": "20210428213311-2hv9zwx"
+    },
+    "20210117211155-56n4odu": {
+      "endId": "20220626213507-6er6cfn",
+      "rootId": "20210117211155-56n4odu",
+      "scrollTop": 1704,
+      "startId": "20210117212652-vpmkfab"
+    },
+    "20230428153709-hioyy5l": {
+      "endId": "20230428162527-zil49lr",
+      "focusEnd": 4,
+      "focusId": "20230428160851-q871vgc",
+      "focusStart": 4,
+      "rootId": "20230428153709-hioyy5l",
+      "scrollTop": 300,
+      "startId": "20230428153709-sc7nv54"
+    },
+    "20240113102857-c63dmo5": {
+      "endId": "20250114215221-sl97cs4",
+      "rootId": "20240113102857-c63dmo5",
+      "scrollTop": 580,
+      "startId": "20240113102857-aof1w7f"
+    },
+    "20260131193254-6tqq4yi": {
+      "endId": "20260131193254-awpruc7",
+      "focusEnd": 0,
+      "focusId": "20260131193254-awpruc7",
+      "focusStart": 0,
+      "rootId": "20260131193254-6tqq4yi",
+      "scrollTop": 0,
+      "startId": "20260131193254-awpruc7"
+    },
+    "20260131193733-j6ic7s0": {
+      "endId": "20260131193733-9j0h962",
+      "focusEnd": 0,
+      "focusId": "20260131193733-9j0h962",
+      "focusStart": 0,
+      "rootId": "20260131193733-j6ic7s0",
+      "scrollTop": 0,
+      "startId": "20260131193733-9j0h962"
+    }
+  },
+  "local-filespaths": [
+    {
+      "notebookId": "20260131193731-hioycx5",
+      "openPaths": [
+        "/20260131193733-j6ic7s0.sy"
+      ]
+    }
+  ]
+}

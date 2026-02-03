@@ -52,3 +52,8 @@ rs-test-folder-*/
 .idea/
 
 *.pptx
+
+SiYuan/conf/
+SiYuan/history/
+SiYuan/temp/
+SiYuan/.lock

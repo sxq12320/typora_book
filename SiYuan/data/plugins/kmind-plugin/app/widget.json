@@ -1,0 +1,27 @@
+{
+  "name": "Kmind",
+  "author": "suka",
+  "url": "https://github.com/suka233/siyuan-Kmind",
+  "version": "2.13.5",
+  "kmindReleaseMsg": "新增 PRO 试用功能 & 多根节点外框",
+  "displayName": {
+    "default": "KMind",
+    "zh-CN": "KMind思维导图",
+    "en_US": "KMind Mind Map"
+  },
+    "description": {
+        "default": "KMind思维导图，多根节点，节点悬浮预览思源块，自动隐藏UI与自动黑暗模式；",
+        "zh-CN": "KMind思维导图，节点悬浮预览思源块，自动隐藏UI与自动黑暗模式；",
+        "en_US": "KMind Mind Map, preview Siyuan block on node hover, auto hide UI and auto dark mode"
+    },
+  "readme": {
+    "default": "README.md",
+    "zh-CN": "README.md",
+    "en_US": "README_en_US.md"
+  },
+  "funding": {
+    "custom": [
+      "https://txc.qq.com/products/662653"
+    ]
+  }
+}

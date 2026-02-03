@@ -1,0 +1,35 @@
+[
+	{
+		"name": "kmind-plugin",
+		"displayName": "KMind思维导图插件",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"disallowInstall": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "siyuan-plugin-publisher",
+		"displayName": "发布工具",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"disallowInstall": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "siyuan-plugin-picgo",
+		"displayName": "PicGo图床",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"disallowInstall": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	}
+]

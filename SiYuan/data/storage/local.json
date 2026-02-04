@@ -19,185 +19,14 @@
     "currentTab": "emoji"
   },
   "local-fileposition": {
-    "20200812220555-lj3enxa": {
-      "endId": "20240508001403-j8ceveg",
-      "focusEnd": 2,
-      "focusId": "20240508000057-x1ale7e",
-      "focusStart": 2,
-      "rootId": "20200812220555-lj3enxa",
-      "scrollTop": 800,
-      "startId": "20251209210725-2e63bop"
-    },
-    "20200813004931-q4cu8na": {
-      "endId": "20260201130711-gm8os1i",
-      "focusEnd": 3,
-      "focusId": "20210127204409-yjgww90",
-      "focusStart": 3,
-      "rootId": "20200813004931-q4cu8na",
-      "scrollTop": 699,
-      "startId": "20210118100623-i00rgj0"
-    },
-    "20200813093015-u6bopdt": {
-      "endId": "20230415111923-37gvzqk",
-      "rootId": "20200813093015-u6bopdt",
-      "scrollTop": 0,
-      "startId": "20210428213311-2hv9zwx"
-    },
-    "20201117101902-2ewjjum": {
-      "endId": "20260201130808-svq4vc5",
-      "focusEnd": 0,
-      "focusId": "20260201130808-svq4vc5",
-      "focusStart": 0,
-      "rootId": "20201117101902-2ewjjum",
-      "scrollTop": 0,
-      "startId": "20210111224435-y1fesd1"
-    },
-    "20210117211155-56n4odu": {
-      "endId": "20220626213507-6er6cfn",
-      "rootId": "20210117211155-56n4odu",
-      "scrollTop": 1704,
-      "startId": "20210117212652-vpmkfab"
-    },
-    "20230428153709-hioyy5l": {
-      "endId": "20230428162527-zil49lr",
-      "focusEnd": 4,
-      "focusId": "20230428160851-q871vgc",
-      "focusStart": 4,
-      "rootId": "20230428153709-hioyy5l",
-      "scrollTop": 300,
-      "startId": "20230428153709-sc7nv54"
-    },
-    "20230506210010-houyyvy": {
-      "endId": "20230506210021-jimdgxy",
-      "focusEnd": 5,
-      "focusId": "20230506210021-jimdgxy",
-      "focusStart": 5,
-      "rootId": "20230506210010-houyyvy",
-      "scrollTop": 96,
-      "startId": "20230506210021-udp6q1j"
-    },
-    "20230808120347-3cob0nb": {
-      "endId": "20230808120347-um16u4f",
-      "rootId": "20230808120347-3cob0nb",
-      "scrollTop": 0,
-      "startId": "20230808120347-wx5cr4v"
-    },
-    "20230808120347-mw3qrwy": {
-      "endId": "20230808120347-j8xikmg",
-      "rootId": "20230808120347-mw3qrwy",
-      "scrollTop": 0,
-      "startId": "20230808120347-2713rg4"
-    },
-    "20230808120348-hynr7og": {
-      "endId": "20230808120348-qxwlf1n",
-      "rootId": "20230808120348-hynr7og",
-      "scrollTop": 0,
-      "startId": "20230808120348-acmzrvi"
-    },
-    "20240113102857-c63dmo5": {
-      "endId": "20250114215221-sl97cs4",
-      "rootId": "20240113102857-c63dmo5",
-      "scrollTop": 580,
-      "startId": "20240113102857-aof1w7f"
-    },
-    "20260131193254-6tqq4yi": {
-      "endId": "20260131193254-awpruc7",
-      "focusEnd": 0,
-      "focusId": "20260131193254-awpruc7",
-      "focusStart": 0,
-      "rootId": "20260131193254-6tqq4yi",
-      "scrollTop": 0,
-      "startId": "20260131193254-awpruc7"
-    },
-    "20260131193733-j6ic7s0": {
-      "endId": "20260202203031-iaw3tj1",
-      "focusEnd": 0,
-      "focusId": "20260202203031-iaw3tj1",
-      "focusStart": 0,
-      "rootId": "20260131193733-j6ic7s0",
-      "scrollTop": 273,
-      "startId": "20260202201135-g17kgjv"
-    },
-    "20260201125229-m656ezj": {
-      "endId": "20260201125358-gq4yfo0",
-      "focusEnd": 17,
-      "focusId": "20260201125240-46dbezw",
-      "focusStart": 17,
-      "rootId": "20260201125229-m656ezj",
-      "scrollTop": 500,
-      "startId": "20260201125313-54qvjzh"
-    },
-    "20260201125754-cxrxzcq": {
-      "endId": "20260201125754-n71lgzw",
-      "focusEnd": 0,
-      "focusId": "20260201125754-n71lgzw",
-      "focusStart": 0,
-      "rootId": "20260201125754-cxrxzcq",
-      "scrollTop": 0,
-      "startId": "20260201125754-n71lgzw"
-    },
     "20260202093525-t8pxku0": {
-      "endId": "20260202203608-mqdgfgi",
-      "focusEnd": 0,
-      "focusId": "20260202203846-swew8fn",
-      "focusStart": 0,
+      "endId": "20260203191122-1s9a4cw",
+      "focusEnd": 12,
+      "focusId": "20260204095228-r9550dg",
+      "focusStart": 12,
       "rootId": "20260202093525-t8pxku0",
-      "scrollTop": 0,
+      "scrollTop": 6305,
       "startId": "20260202203242-0gm3mgg"
-    },
-    "20260202164105-z33iw2s": {
-      "endId": "20260202164135-b2ku9zc",
-      "focusEnd": 8,
-      "focusId": "20260202164135-b9ct7k0",
-      "focusStart": 8,
-      "rootId": "20260202164105-z33iw2s",
-      "scrollTop": 500,
-      "startId": "20260202164135-7ofbeg0"
-    },
-    "20260202164417-17f8s7v": {
-      "endId": "20260202164423-s2xk2c2",
-      "focusEnd": 7,
-      "focusId": "20260202164423-my1t5aa",
-      "focusStart": 7,
-      "rootId": "20260202164417-17f8s7v",
-      "scrollTop": 0,
-      "startId": "20260202164423-k2xavgy"
-    },
-    "20260202164715-elrrqem": {
-      "endId": "20260202164720-cvu1m0o",
-      "focusEnd": 4,
-      "focusId": "20260202164720-l4snwjh",
-      "focusStart": 4,
-      "rootId": "20260202164715-elrrqem",
-      "scrollTop": 800,
-      "startId": "20260202165106-1ssxkt7"
-    },
-    "20260203094519-qxx8y9q": {
-      "endId": "20260203104217-ilxq3hp",
-      "focusEnd": 0,
-      "focusId": "20260203104217-ilxq3hp",
-      "focusStart": 0,
-      "rootId": "20260203094519-qxx8y9q",
-      "scrollTop": 0,
-      "startId": "20260203094519-nc2gkdq"
-    },
-    "20260203094626-3i6imtu": {
-      "endId": "20260203094626-emo8vx5",
-      "focusEnd": 0,
-      "focusId": "20260203094626-emo8vx5",
-      "focusStart": 0,
-      "rootId": "20260203094626-3i6imtu",
-      "scrollTop": 0,
-      "startId": "20260203094626-emo8vx5"
-    },
-    "20260203094726-7rhefqi": {
-      "endId": "20260203094726-v7bkv5w",
-      "focusEnd": 0,
-      "focusId": "20260203094726-v7bkv5w",
-      "focusStart": 0,
-      "rootId": "20260203094726-7rhefqi",
-      "scrollTop": 0,
-      "startId": "20260203094726-v7bkv5w"
     }
   },
   "local-filespaths": [
@@ -210,19 +39,9 @@
   ],
   "local-plugin-docks": {
     "Calendar-heatmap": {},
-    "kmind-plugin": {
-      "kmind-pluginKmindDock": {
-        "icon": "iconKmind",
-        "index": 2,
-        "position": "LeftBottom",
-        "show": false,
-        "size": {
-          "height": 0,
-          "width": 200
-        },
-        "title": "Kmind"
-      }
-    }
+    "kmind-plugin": {},
+    "siyuan-plugin-picgo": {},
+    "sy-tomato-plugin": {}
   },
   "local-searchdata": {
     "group": 0,

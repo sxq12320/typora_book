@@ -53,6 +53,21 @@ rs-test-folder-*/
 
 *.pptx
 
-SiYuan/conf/
+# --- 思源笔记专用忽略规则 ---
+
+# 1. 忽略临时文件 (必须！)
+# 这里面有 pandoc.exe 等大文件
+SiYuan/temp/
+*/temp/
+
+# 2. 忽略思源自带的历史记录 (建议)
+# 因为你已经用 Git 做版本控制了，不需要双重备份
 SiYuan/history/
-SiYuan/.lock
+*/history/
+
+# 3. 忽略 workspace 的系统文件 (可选，视情况而定)
+# 比如锁定文件等
+.lock
+*.lock
+
+# --- 也就是你只需要保留 data 和 conf ---

@@ -187,7 +187,7 @@
     "20260206210732-yz01rs2": {
       "endId": "20260206210732-vt6h73p",
       "rootId": "20260206210732-yz01rs2",
-      "scrollTop": 8200,
+      "scrollTop": 5158.39990234375,
       "startId": "20260206210732-gyndm3s"
     },
     "20260206210813-jdfihm1": {
@@ -196,16 +196,16 @@
       "focusId": "20260206210813-8nflori",
       "focusStart": 76,
       "rootId": "20260206210813-jdfihm1",
-      "scrollTop": 8145,
+      "scrollTop": 6134.39990234375,
       "startId": "20260206210813-y1hzdsh"
     },
     "20260206210943-ma3pxxw": {
       "endId": "20260206210943-5s8wvl4",
-      "focusEnd": 13,
-      "focusId": "20260206210943-obf7nlj",
-      "focusStart": 13,
+      "focusEnd": 204,
+      "focusId": "20260206210943-wu7a5e3",
+      "focusStart": 204,
       "rootId": "20260206210943-ma3pxxw",
-      "scrollTop": 2028,
+      "scrollTop": 3430.39990234375,
       "startId": "20260206210943-qqc3024"
     }
   },
@@ -213,7 +213,7 @@
     {
       "notebookId": "20260131193731-hioycx5",
       "openPaths": [
-        "/20260206210653-s7d7qxr/20260206210712-jzzl8nj/20260206210732-yz01rs2.sy"
+        "/20260206183337-lnb1wqb/20260201125229-m656ezj.sy"
       ]
     }
   ],

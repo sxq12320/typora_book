@@ -8,6 +8,12 @@
   },
   "local-codelang": "python",
   "local-dialogposition": {
+    "dialog-emojis": {
+      "height": 408,
+      "left": 86,
+      "top": 131,
+      "width": 368
+    },
     "dialog-historydoc": {
       "height": 653,
       "left": 92,
@@ -18,28 +24,150 @@
   "local-emojis": {
     "currentTab": "emoji"
   },
+  "local-exportpdf": {
+    "keepFold": false,
+    "landscape": false,
+    "marginBottom": 0.58,
+    "marginLeft": 0.1,
+    "marginRight": 0.1,
+    "marginTop": 0.58,
+    "marginType": "printableArea",
+    "mergeSubdocs": false,
+    "pageSize": "A4",
+    "paged": true,
+    "removeAssets": true,
+    "scale": 1,
+    "watermark": false
+  },
   "local-fileposition": {
+    "20260131193733-j6ic7s0": {
+      "endId": "20260202203031-iaw3tj1",
+      "focusEnd": 0,
+      "focusId": "20260202201135-g17kgjv",
+      "focusStart": 0,
+      "rootId": "20260131193733-j6ic7s0",
+      "scrollTop": 273,
+      "startId": "20260202201135-g17kgjv"
+    },
+    "20260201125229-m656ezj": {
+      "endId": "20260201125358-gq4yfo0",
+      "focusEnd": 4,
+      "focusId": "20260201125240-kqm088z",
+      "focusStart": 4,
+      "rootId": "20260201125229-m656ezj",
+      "scrollTop": 0,
+      "startId": "20260201125313-54qvjzh"
+    },
     "20260202093525-t8pxku0": {
-      "endId": "20260203191122-1s9a4cw",
-      "focusEnd": 12,
-      "focusId": "20260204095228-r9550dg",
-      "focusStart": 12,
+      "endId": "20260204182632-9uoxhhl",
+      "focusEnd": 0,
+      "focusId": "20260204151948-o5zdwlc",
+      "focusStart": 0,
       "rootId": "20260202093525-t8pxku0",
-      "scrollTop": 6305,
-      "startId": "20260202203242-0gm3mgg"
+      "scrollTop": 9419,
+      "startId": "20260203094252-g8jb9de"
+    },
+    "20260202164105-z33iw2s": {
+      "endId": "20260202164135-b2ku9zc",
+      "focusEnd": 4,
+      "focusId": "20260206191906-igvon7j",
+      "focusStart": 4,
+      "rootId": "20260202164105-z33iw2s",
+      "scrollTop": 1100,
+      "startId": "20260202164135-7ofbeg0"
+    },
+    "20260202164715-elrrqem": {
+      "endId": "20260202164720-cvu1m0o",
+      "focusEnd": 4,
+      "focusId": "20260202164720-pguanj5",
+      "focusStart": 4,
+      "rootId": "20260202164715-elrrqem",
+      "scrollTop": 0,
+      "startId": "20260202165106-1ssxkt7"
+    },
+    "20260203094519-qxx8y9q": {
+      "endId": "20260203104217-ilxq3hp",
+      "focusEnd": 0,
+      "focusId": "20260203104217-ilxq3hp",
+      "focusStart": 0,
+      "rootId": "20260203094519-qxx8y9q",
+      "scrollTop": 0,
+      "startId": "20260203094519-nc2gkdq"
+    },
+    "20260203094626-3i6imtu": {
+      "endId": "20260203094626-emo8vx5",
+      "focusEnd": 0,
+      "focusId": "20260203094626-emo8vx5",
+      "focusStart": 0,
+      "rootId": "20260203094626-3i6imtu",
+      "scrollTop": 0,
+      "startId": "20260203094626-emo8vx5"
+    },
+    "20260203094726-7rhefqi": {
+      "endId": "20260203094726-v7bkv5w",
+      "rootId": "20260203094726-7rhefqi",
+      "scrollTop": 0,
+      "startId": "20260203094726-v7bkv5w"
+    },
+    "20260206183337-lnb1wqb": {
+      "endId": "20260206192820-otltgbs",
+      "focusEnd": 0,
+      "focusId": "20260206192820-otltgbs",
+      "focusStart": 0,
+      "rootId": "20260206183337-lnb1wqb",
+      "scrollTop": 35.20000076293945,
+      "startId": "20260206183337-jv8xatu"
+    },
+    "20260206191940-pxl4245": {
+      "endId": "20260206192119-juz83i7",
+      "focusEnd": 0,
+      "focusId": "20260206192119-juz83i7",
+      "focusStart": 0,
+      "rootId": "20260206191940-pxl4245",
+      "scrollTop": 0,
+      "startId": "20260206192044-71085lp"
+    },
+    "20260206192147-45jp7aq": {
+      "endId": "20260206192257-rbvgcf8",
+      "focusEnd": 0,
+      "focusId": "20260206192257-rbvgcf8",
+      "focusStart": 0,
+      "rootId": "20260206192147-45jp7aq",
+      "scrollTop": 0,
+      "startId": "20260206192228-34m3uaz"
+    },
+    "20260206192314-s2ofdp1": {
+      "endId": "20260206192419-qw8nxyg",
+      "focusEnd": 34,
+      "focusId": "20260206192324-b2hq6q0",
+      "focusStart": 34,
+      "rootId": "20260206192314-s2ofdp1",
+      "scrollTop": 0,
+      "startId": "20260206192334-3j81jow"
+    },
+    "20260206192508-7vlgudd": {
+      "endId": "20260206192625-yxtohrz",
+      "focusEnd": 0,
+      "focusId": "20260206192625-yxtohrz",
+      "focusStart": 0,
+      "rootId": "20260206192508-7vlgudd",
+      "scrollTop": 0,
+      "startId": "20260206192528-ukqy57m"
     }
   },
   "local-filespaths": [
     {
       "notebookId": "20260131193731-hioycx5",
       "openPaths": [
-        "/20260131193733-j6ic7s0/20260203094519-qxx8y9q.sy"
+        "/20260206183337-lnb1wqb/20260201125229-m656ezj.sy"
       ]
     }
   ],
   "local-plugin-docks": {
     "Calendar-heatmap": {},
     "kmind-plugin": {},
+    "markmind": {},
+    "siyuan-importer": {},
     "siyuan-plugin-picgo": {},
     "sy-tomato-plugin": {}
   },

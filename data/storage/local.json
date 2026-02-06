@@ -1,0 +1,305 @@
+{
+  "local-bazaar": {
+    "icon": "0",
+    "plugin": "2",
+    "template": "0",
+    "theme": "0",
+    "widget": "0"
+  },
+  "local-codelang": "python",
+  "local-dialogposition": {
+    "dialog-emojis": {
+      "height": 408,
+      "left": 86,
+      "top": 131,
+      "width": 368
+    },
+    "dialog-historydoc": {
+      "height": 653,
+      "left": 92,
+      "top": 81,
+      "width": 1352
+    },
+    "dialog-setting": {
+      "height": 734,
+      "left": 0,
+      "top": 83,
+      "width": 1280
+    }
+  },
+  "local-emojis": {
+    "currentTab": "emoji"
+  },
+  "local-exportpdf": {
+    "keepFold": false,
+    "landscape": false,
+    "marginBottom": 0.58,
+    "marginLeft": 0.1,
+    "marginRight": 0.1,
+    "marginTop": 0.58,
+    "marginType": "printableArea",
+    "mergeSubdocs": false,
+    "pageSize": "A4",
+    "paged": true,
+    "removeAssets": true,
+    "scale": 1,
+    "watermark": false
+  },
+  "local-fileposition": {
+    "20260201125229-m656ezj": {
+      "endId": "20260201125358-gq4yfo0",
+      "focusEnd": 21,
+      "focusId": "20260201125240-237z64x",
+      "focusStart": 21,
+      "rootId": "20260201125229-m656ezj",
+      "scrollTop": 4016,
+      "startId": "20260201125313-54qvjzh"
+    },
+    "20260202093525-t8pxku0": {
+      "endId": "20260204182632-9uoxhhl",
+      "focusEnd": 19,
+      "focusId": "20260203093607-23ahwi3",
+      "focusStart": 19,
+      "rootId": "20260202093525-t8pxku0",
+      "scrollTop": 0,
+      "startId": "20260202203242-0gm3mgg"
+    },
+    "20260202164105-z33iw2s": {
+      "endId": "20260202164135-b2ku9zc",
+      "focusEnd": 0,
+      "focusId": "20260202164135-7ofbeg0",
+      "focusStart": 0,
+      "rootId": "20260202164105-z33iw2s",
+      "scrollTop": 0,
+      "startId": "20260202164135-7ofbeg0"
+    },
+    "20260202164417-17f8s7v": {
+      "endId": "20260202164423-s2xk2c2",
+      "rootId": "20260202164417-17f8s7v",
+      "scrollTop": 0,
+      "startId": "20260202164423-k2xavgy"
+    },
+    "20260202164715-elrrqem": {
+      "endId": "20260202164720-cvu1m0o",
+      "focusEnd": 105,
+      "focusId": "20260202164720-1pn9ziu",
+      "focusStart": 105,
+      "rootId": "20260202164715-elrrqem",
+      "scrollTop": 2373,
+      "startId": "20260202165106-1ssxkt7"
+    },
+    "20260203094519-qxx8y9q": {
+      "endId": "20260203104217-ilxq3hp",
+      "focusEnd": 0,
+      "focusId": "20260203104217-ilxq3hp",
+      "focusStart": 0,
+      "rootId": "20260203094519-qxx8y9q",
+      "scrollTop": 0,
+      "startId": "20260203094519-nc2gkdq"
+    },
+    "20260206183337-lnb1wqb": {
+      "endId": "20260206203951-iamlcir",
+      "focusEnd": 11,
+      "focusId": "20260206203822-2ceq7pn",
+      "focusStart": 11,
+      "rootId": "20260206183337-lnb1wqb",
+      "scrollTop": 600,
+      "startId": "20260206192820-otltgbs"
+    },
+    "20260206191940-pxl4245": {
+      "endId": "20260206192119-juz83i7",
+      "focusEnd": 17,
+      "focusId": "20260206192027-5ga4t8n",
+      "focusStart": 17,
+      "rootId": "20260206191940-pxl4245",
+      "scrollTop": 5301,
+      "startId": "20260206192044-71085lp"
+    },
+    "20260206192147-45jp7aq": {
+      "endId": "20260206192257-rbvgcf8",
+      "focusEnd": 26,
+      "focusId": "20260206192215-kj887di",
+      "focusStart": 19,
+      "rootId": "20260206192147-45jp7aq",
+      "scrollTop": 1400,
+      "startId": "20260206192228-34m3uaz"
+    },
+    "20260206192314-s2ofdp1": {
+      "endId": "20260206192419-qw8nxyg",
+      "focusEnd": 9,
+      "focusId": "20260206192324-agscecq",
+      "focusStart": 9,
+      "rootId": "20260206192314-s2ofdp1",
+      "scrollTop": 3800,
+      "startId": "20260206192334-3j81jow"
+    },
+    "20260206192508-7vlgudd": {
+      "endId": "20260206192625-yxtohrz",
+      "focusEnd": 4,
+      "focusId": "20260206192603-8wksk0k",
+      "focusStart": 4,
+      "rootId": "20260206192508-7vlgudd",
+      "scrollTop": 8900,
+      "startId": "20260206192528-ukqy57m"
+    },
+    "20260206201501-cw8y94v": {
+      "endId": "20260206201512-w2t7g95",
+      "focusEnd": 0,
+      "focusId": "20260206201512-ogmcwwd",
+      "focusStart": 0,
+      "rootId": "20260206201501-cw8y94v",
+      "scrollTop": 3200,
+      "startId": "20260206201512-c806zkl"
+    },
+    "20260206202357-gdymd2a": {
+      "endId": "20260206202533-mv8b1wg",
+      "focusEnd": 30,
+      "focusId": "20260206202414-bjek59s",
+      "focusStart": 30,
+      "rootId": "20260206202357-gdymd2a",
+      "scrollTop": 4563.2001953125,
+      "startId": "20260206202414-ybrt1h9"
+    },
+    "20260206210129-bl91eag": {
+      "endId": "20260206210129-ztts770",
+      "focusEnd": 0,
+      "focusId": "20260206210129-ztts770",
+      "focusStart": 0,
+      "rootId": "20260206210129-bl91eag",
+      "scrollTop": 0,
+      "startId": "20260206210129-ztts770"
+    },
+    "20260206210653-s7d7qxr": {
+      "endId": "20260206210653-gc334mr",
+      "focusEnd": 0,
+      "focusId": "20260206210653-gc334mr",
+      "focusStart": 0,
+      "rootId": "20260206210653-s7d7qxr",
+      "scrollTop": 0,
+      "startId": "20260206210653-gc334mr"
+    },
+    "20260206210712-jzzl8nj": {
+      "endId": "20260206210712-e96yofa",
+      "rootId": "20260206210712-jzzl8nj",
+      "scrollTop": 0,
+      "startId": "20260206210712-e96yofa"
+    },
+    "20260206210732-yz01rs2": {
+      "endId": "20260206210732-vt6h73p",
+      "rootId": "20260206210732-yz01rs2",
+      "scrollTop": 8200,
+      "startId": "20260206210732-gyndm3s"
+    },
+    "20260206210813-jdfihm1": {
+      "endId": "20260206210813-t2sqaxc",
+      "focusEnd": 76,
+      "focusId": "20260206210813-8nflori",
+      "focusStart": 76,
+      "rootId": "20260206210813-jdfihm1",
+      "scrollTop": 8145,
+      "startId": "20260206210813-y1hzdsh"
+    },
+    "20260206210943-ma3pxxw": {
+      "endId": "20260206210943-5s8wvl4",
+      "focusEnd": 13,
+      "focusId": "20260206210943-obf7nlj",
+      "focusStart": 13,
+      "rootId": "20260206210943-ma3pxxw",
+      "scrollTop": 2028,
+      "startId": "20260206210943-qqc3024"
+    }
+  },
+  "local-filespaths": [
+    {
+      "notebookId": "20260131193731-hioycx5",
+      "openPaths": [
+        "/20260206210653-s7d7qxr/20260206210712-jzzl8nj/20260206210732-yz01rs2.sy"
+      ]
+    }
+  ],
+  "local-plugin-docks": {
+    "Calendar-heatmap": {},
+    "kmind-plugin": {},
+    "markmind": {},
+    "siyuan-importer": {},
+    "siyuan-plugin-picgo": {},
+    "sy-tomato-plugin": {}
+  },
+  "local-plugintopunpin": [
+    "plugin_sy-tomato-plugin_1",
+    "plugin_sy-tomato-plugin_2"
+  ],
+  "local-searchdata": {
+    "group": 0,
+    "hPath": "sxq/神经网络学习/AlexNet",
+    "hasReplace": false,
+    "idPath": [
+      "20260131193731-hioycx5/20260206183337-lnb1wqb/20260206191940-pxl4245.sy"
+    ],
+    "k": "#KaTeX parse error: Expected group after '_' at position 1: _̲#",
+    "method": 0,
+    "page": 1,
+    "query": "#KaTeX parse error: Expected group after '_' at position 1: _̲#",
+    "r": "",
+    "removed": true,
+    "replaceTypes": {
+      "aHref": true,
+      "aText": true,
+      "aTitle": true,
+      "blockRef": true,
+      "code": true,
+      "codeBlock": true,
+      "docTitle": true,
+      "em": true,
+      "fileAnnotationRef": true,
+      "htmlBlock": true,
+      "imgSrc": true,
+      "imgText": true,
+      "imgTitle": true,
+      "inlineMath": true,
+      "inlineMemo": true,
+      "kbd": true,
+      "mark": true,
+      "mathBlock": true,
+      "s": true,
+      "strong": true,
+      "sub": true,
+      "sup": true,
+      "tag": true,
+      "text": true,
+      "u": true
+    },
+    "sort": 0,
+    "types": {
+      "blockquote": false,
+      "codeBlock": true,
+      "databaseBlock": true,
+      "document": true,
+      "embedBlock": false,
+      "heading": true,
+      "htmlBlock": true,
+      "list": false,
+      "listItem": false,
+      "mathBlock": true,
+      "paragraph": true,
+      "superBlock": false,
+      "table": true
+    }
+  },
+  "local-searchkeys": {
+    "col": "",
+    "colTab": "",
+    "keys": [
+      "#KaTeX parse error: Expected group after '_' at position 1: _̲#",
+      "#​O#",
+      "#​{depthsep} #",
+      "#​内容块/嵌入#",
+      "#​注意#"
+    ],
+    "layout": 0,
+    "layoutTab": 0,
+    "replaceKeys": [],
+    "row": "",
+    "rowTab": ""
+  }
+}

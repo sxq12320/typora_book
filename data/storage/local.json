@@ -213,13 +213,22 @@
       "rootId": "20260206210943-ma3pxxw",
       "scrollTop": 3430.39990234375,
       "startId": "20260206210943-qqc3024"
+    },
+    "20260207105800-v8xfwhy": {
+      "endId": "20260207105800-alvxqg3",
+      "focusEnd": 0,
+      "focusId": "20260207105800-alvxqg3",
+      "focusStart": 0,
+      "rootId": "20260207105800-v8xfwhy",
+      "scrollTop": 0,
+      "startId": "20260207105800-alvxqg3"
     }
   },
   "local-filespaths": [
     {
       "notebookId": "20260131193731-hioycx5",
       "openPaths": [
-        "/20260206183337-lnb1wqb/20260201125229-m656ezj.sy"
+        "/20260206183337-lnb1wqb/20260207105800-v8xfwhy.sy"
       ]
     }
   ],

@@ -253,12 +253,12 @@
         "callout": false
       },
       "d3": {
-        "nodeSize": 10,
+        "nodeSize": 16,
         "linkWidth": 8,
         "lineOpacity": 0.36,
-        "centerStrength": 0.015,
+        "centerStrength": 0.005,
         "collideRadius": 600,
-        "collideStrength": 0.08,
+        "collideStrength": 0.16,
         "linkDistance": 400,
         "arrow": false
       }
@@ -297,7 +297,7 @@
                   "children": [
                     {
                       "active": true,
-                      "activeTime": "1770431426568",
+                      "activeTime": "1770432406061",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20260203094519-qxx8y9q",
@@ -312,7 +312,22 @@
                       "title": "R-CNN"
                     },
                     {
-                      "activeTime": "1770431387055",
+                      "activeTime": "1770432403757",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20260206202357-gdymd2a",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20260131193731-hioycx5",
+                        "rootId": "20260206202357-gdymd2a"
+                      },
+                      "docIcon": "1f383",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "DenseNet"
+                    },
+                    {
+                      "activeTime": "1770432405423",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20260206192508-7vlgudd",
@@ -1334,6 +1349,6 @@
     "enabledCSS": true,
     "enabledJS": true
   },
-  "dataIndexState": 1,
+  "dataIndexState": 0,
   "cookieKey": "8ecc5iecj7xu98lc"
 }

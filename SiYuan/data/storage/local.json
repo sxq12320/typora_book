@@ -19,6 +19,12 @@
       "left": 92,
       "top": 81,
       "width": 1352
+    },
+    "dialog-setting": {
+      "height": 734,
+      "left": 0,
+      "top": 83,
+      "width": 1280
     }
   },
   "local-emojis": {
@@ -46,7 +52,7 @@
       "focusId": "20260201125240-237z64x",
       "focusStart": 21,
       "rootId": "20260201125229-m656ezj",
-      "scrollTop": 4016,
+      "scrollTop": 624,
       "startId": "20260201125313-54qvjzh"
     },
     "20260202093525-t8pxku0": {
@@ -55,7 +61,7 @@
       "focusId": "20260203093607-23ahwi3",
       "focusStart": 19,
       "rootId": "20260202093525-t8pxku0",
-      "scrollTop": 0,
+      "scrollTop": 600,
       "startId": "20260202203242-0gm3mgg"
     },
     "20260202164105-z33iw2s": {
@@ -64,7 +70,7 @@
       "focusId": "20260202164135-7ofbeg0",
       "focusStart": 0,
       "rootId": "20260202164105-z33iw2s",
-      "scrollTop": 0,
+      "scrollTop": 800,
       "startId": "20260202164135-7ofbeg0"
     },
     "20260202164417-17f8s7v": {
@@ -79,25 +85,43 @@
       "focusId": "20260202164720-1pn9ziu",
       "focusStart": 105,
       "rootId": "20260202164715-elrrqem",
-      "scrollTop": 2373,
+      "scrollTop": 5772,
       "startId": "20260202165106-1ssxkt7"
     },
     "20260203094519-qxx8y9q": {
-      "endId": "20260203104217-ilxq3hp",
-      "focusEnd": 0,
-      "focusId": "20260203104217-ilxq3hp",
-      "focusStart": 0,
+      "endId": "20260207144251-4r2vfob",
+      "focusEnd": 18,
+      "focusId": "20260207143931-64ucgo7",
+      "focusStart": 18,
       "rootId": "20260203094519-qxx8y9q",
+      "scrollTop": 1981,
+      "startId": "20260207103030-6fkv4zy"
+    },
+    "20260203094626-3i6imtu": {
+      "endId": "20260203094626-emo8vx5",
+      "focusEnd": 0,
+      "focusId": "20260203094626-emo8vx5",
+      "focusStart": 0,
+      "rootId": "20260203094626-3i6imtu",
       "scrollTop": 0,
-      "startId": "20260203094519-nc2gkdq"
+      "startId": "20260203094626-emo8vx5"
+    },
+    "20260203094726-7rhefqi": {
+      "endId": "20260203094726-v7bkv5w",
+      "focusEnd": 0,
+      "focusId": "20260203094726-v7bkv5w",
+      "focusStart": 0,
+      "rootId": "20260203094726-7rhefqi",
+      "scrollTop": 0,
+      "startId": "20260203094726-v7bkv5w"
     },
     "20260206183337-lnb1wqb": {
-      "endId": "20260206203951-iamlcir",
-      "focusEnd": 11,
-      "focusId": "20260206203822-2ceq7pn",
-      "focusStart": 11,
+      "endId": "20260207111849-vjnsuwo",
+      "focusEnd": 853,
+      "focusId": "20260206195039-harzpxh",
+      "focusStart": 853,
       "rootId": "20260206183337-lnb1wqb",
-      "scrollTop": 600,
+      "scrollTop": 758.4000244140625,
       "startId": "20260206192820-otltgbs"
     },
     "20260206191940-pxl4245": {
@@ -133,25 +157,25 @@
       "focusId": "20260206192603-8wksk0k",
       "focusStart": 4,
       "rootId": "20260206192508-7vlgudd",
-      "scrollTop": 8900,
+      "scrollTop": 7700,
       "startId": "20260206192528-ukqy57m"
     },
     "20260206201501-cw8y94v": {
       "endId": "20260206201512-w2t7g95",
-      "focusEnd": 0,
+      "focusEnd": 6,
       "focusId": "20260206201512-ogmcwwd",
-      "focusStart": 0,
+      "focusStart": 6,
       "rootId": "20260206201501-cw8y94v",
       "scrollTop": 3200,
       "startId": "20260206201512-c806zkl"
     },
     "20260206202357-gdymd2a": {
       "endId": "20260206202533-mv8b1wg",
-      "focusEnd": 30,
-      "focusId": "20260206202414-bjek59s",
-      "focusStart": 30,
+      "focusEnd": 76,
+      "focusId": "20260206202414-mtvf3zw",
+      "focusStart": 76,
       "rootId": "20260206202357-gdymd2a",
-      "scrollTop": 4563.2001953125,
+      "scrollTop": 1871,
       "startId": "20260206202414-ybrt1h9"
     },
     "20260206210129-bl91eag": {
@@ -163,15 +187,6 @@
       "scrollTop": 0,
       "startId": "20260206210129-ztts770"
     },
-    "20260206210653-s7d7qxr": {
-      "endId": "20260206210653-gc334mr",
-      "focusEnd": 0,
-      "focusId": "20260206210653-gc334mr",
-      "focusStart": 0,
-      "rootId": "20260206210653-s7d7qxr",
-      "scrollTop": 0,
-      "startId": "20260206210653-gc334mr"
-    },
     "20260206210712-jzzl8nj": {
       "endId": "20260206210712-e96yofa",
       "rootId": "20260206210712-jzzl8nj",
@@ -181,7 +196,7 @@
     "20260206210732-yz01rs2": {
       "endId": "20260206210732-vt6h73p",
       "rootId": "20260206210732-yz01rs2",
-      "scrollTop": 8200,
+      "scrollTop": 5158.39990234375,
       "startId": "20260206210732-gyndm3s"
     },
     "20260206210813-jdfihm1": {
@@ -190,35 +205,106 @@
       "focusId": "20260206210813-8nflori",
       "focusStart": 76,
       "rootId": "20260206210813-jdfihm1",
-      "scrollTop": 8145,
+      "scrollTop": 6134.39990234375,
       "startId": "20260206210813-y1hzdsh"
     },
     "20260206210943-ma3pxxw": {
       "endId": "20260206210943-5s8wvl4",
-      "focusEnd": 13,
-      "focusId": "20260206210943-obf7nlj",
-      "focusStart": 13,
+      "focusEnd": 204,
+      "focusId": "20260206210943-wu7a5e3",
+      "focusStart": 204,
       "rootId": "20260206210943-ma3pxxw",
-      "scrollTop": 2020,
+      "scrollTop": 3430.39990234375,
       "startId": "20260206210943-qqc3024"
+    },
+    "20260207105800-v8xfwhy": {
+      "endId": "20260207105800-alvxqg3",
+      "focusEnd": 0,
+      "focusId": "20260207105800-alvxqg3",
+      "focusStart": 0,
+      "rootId": "20260207105800-v8xfwhy",
+      "scrollTop": 0,
+      "startId": "20260207105800-alvxqg3"
+    },
+    "20260207111550-p64wn5u": {
+      "endId": "20260207111550-x3sblq2",
+      "rootId": "20260207111550-p64wn5u",
+      "scrollTop": 0,
+      "startId": "20260207111550-x3sblq2"
+    },
+    "20260207111601-2jwxjxd": {
+      "endId": "20260207111601-4sxe8rb",
+      "focusEnd": 0,
+      "focusId": "20260207111601-4sxe8rb",
+      "focusStart": 0,
+      "rootId": "20260207111601-2jwxjxd",
+      "scrollTop": 0,
+      "startId": "20260207111601-4sxe8rb"
+    },
+    "20260207111650-ljbch8c": {
+      "endId": "20260207111650-vuqeeom",
+      "focusEnd": 0,
+      "focusId": "20260207111650-vuqeeom",
+      "focusStart": 0,
+      "rootId": "20260207111650-ljbch8c",
+      "scrollTop": 0,
+      "startId": "20260207111650-vuqeeom"
+    },
+    "20260207111751-bdk1agj": {
+      "endId": "20260207144729-uj4ze9o",
+      "focusEnd": 24,
+      "focusId": "20260207144729-ufyloxk",
+      "focusStart": 24,
+      "rootId": "20260207111751-bdk1agj",
+      "scrollTop": 0,
+      "startId": "20260207144729-9oki8jv"
+    },
+    "20260207111816-bwo195j": {
+      "endId": "20260207111816-j6ytyqj",
+      "focusEnd": 0,
+      "focusId": "20260207111816-j6ytyqj",
+      "focusStart": 0,
+      "rootId": "20260207111816-bwo195j",
+      "scrollTop": 0,
+      "startId": "20260207111816-j6ytyqj"
+    },
+    "20260207144320-bskxl2y": {
+      "endId": "20260207144320-3ivkg9g",
+      "focusEnd": 0,
+      "focusId": "20260207144320-3ivkg9g",
+      "focusStart": 0,
+      "rootId": "20260207144320-bskxl2y",
+      "scrollTop": 0,
+      "startId": "20260207144320-3ivkg9g"
+    },
+    "20260207144325-dp7tceg": {
+      "endId": "20260207144325-5b8dt5r",
+      "rootId": "20260207144325-dp7tceg",
+      "scrollTop": 0,
+      "startId": "20260207144325-5b8dt5r"
     }
   },
   "local-filespaths": [
     {
       "notebookId": "20260131193731-hioycx5",
       "openPaths": [
-        "/20260206210653-s7d7qxr/20260206210712-jzzl8nj/20260206210732-yz01rs2.sy"
+        "/20260206183337-lnb1wqb/20260201125229-m656ezj.sy"
       ]
     }
   ],
   "local-plugin-docks": {
     "Calendar-heatmap": {},
+    "GIT-SYNC-PLUGIN": {},
     "kmind-plugin": {},
     "markmind": {},
     "siyuan-importer": {},
     "siyuan-plugin-picgo": {},
     "sy-tomato-plugin": {}
   },
+  "local-plugintopunpin": [
+    "plugin_sy-tomato-plugin_1",
+    "plugin_sy-tomato-plugin_2"
+  ],
   "local-searchdata": {
     "group": 0,
     "hPath": "sxq/神经网络学习/AlexNet",

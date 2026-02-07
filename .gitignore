@@ -71,3 +71,6 @@ SiYuan/history/
 *.lock
 
 # --- 也就是你只需要保留 data 和 conf ---
+
+SiYuan/data/storage/petal/GIT-SYNC-PLUGIN/plugin_config_git_sync_github.json
+plugin_config_git_sync_github.json

@@ -45,6 +45,10 @@
     "scale": 1,
     "watermark": false
   },
+  "local-exportword": {
+    "mergeSubdocs": true,
+    "removeAssets": true
+  },
   "local-fileposition": {
     "20260201125229-m656ezj": {
       "endId": "20260201125358-gq4yfo0",
@@ -52,16 +56,16 @@
       "focusId": "20260201125240-237z64x",
       "focusStart": 21,
       "rootId": "20260201125229-m656ezj",
-      "scrollTop": 624,
+      "scrollTop": 724,
       "startId": "20260201125313-54qvjzh"
     },
     "20260202093525-t8pxku0": {
       "endId": "20260204182632-9uoxhhl",
-      "focusEnd": 19,
-      "focusId": "20260203093607-23ahwi3",
-      "focusStart": 19,
+      "focusEnd": 4,
+      "focusId": "20260206191540-d4ck7ss",
+      "focusStart": 4,
       "rootId": "20260202093525-t8pxku0",
-      "scrollTop": 600,
+      "scrollTop": 7162.39990234375,
       "startId": "20260202203242-0gm3mgg"
     },
     "20260202164105-z33iw2s": {
@@ -121,7 +125,7 @@
       "focusId": "20260206195039-harzpxh",
       "focusStart": 853,
       "rootId": "20260206183337-lnb1wqb",
-      "scrollTop": 758.4000244140625,
+      "scrollTop": 0,
       "startId": "20260206192820-otltgbs"
     },
     "20260206191940-pxl4245": {
@@ -233,13 +237,13 @@
       "startId": "20260207111550-x3sblq2"
     },
     "20260207111601-2jwxjxd": {
-      "endId": "20260207111601-4sxe8rb",
+      "endId": "20260209141531-12dz191",
       "focusEnd": 0,
-      "focusId": "20260207111601-4sxe8rb",
+      "focusId": "20260209141531-12dz191",
       "focusStart": 0,
       "rootId": "20260207111601-2jwxjxd",
       "scrollTop": 0,
-      "startId": "20260207111601-4sxe8rb"
+      "startId": "20260209131655-5lna48f"
     },
     "20260207111650-ljbch8c": {
       "endId": "20260207111650-vuqeeom",

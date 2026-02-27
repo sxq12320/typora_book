@@ -495,6 +495,265 @@
       "instance": "Tab",
       "pin": false,
       "title": "DETR"
+    },
+    {
+      "active": true,
+      "activeTime": "1771999347992",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260206210129-bl91eag",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260206210129-bl91eag"
+      },
+      "docIcon": "1f347",
+      "instance": "Tab",
+      "pin": false,
+      "title": "开题相关问题"
+    },
+    {
+      "active": true,
+      "activeTime": "1771999421202",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260206210129-bl91eag",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260206210129-bl91eag"
+      },
+      "docIcon": "1f347",
+      "instance": "Tab",
+      "pin": false,
+      "title": "开题相关问题"
+    },
+    {
+      "activeTime": "1772079289653",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260201125229-m656ezj",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260201125229-m656ezj"
+      },
+      "docIcon": "1f383",
+      "instance": "Tab",
+      "pin": false,
+      "title": "LeNet-5"
+    },
+    {
+      "activeTime": "1772160342250",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260202164715-elrrqem",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260202164715-elrrqem"
+      },
+      "docIcon": "1f383",
+      "instance": "Tab",
+      "pin": false,
+      "title": "MobileNet V1"
+    },
+    {
+      "activeTime": "1772160342934",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260206202357-gdymd2a",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260206202357-gdymd2a"
+      },
+      "docIcon": "1f383",
+      "instance": "Tab",
+      "pin": false,
+      "title": "DenseNet"
+    },
+    {
+      "activeTime": "1772160343678",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260206192508-7vlgudd",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260206192508-7vlgudd"
+      },
+      "docIcon": "1f383",
+      "instance": "Tab",
+      "pin": false,
+      "title": "ResNet"
+    },
+    {
+      "activeTime": "1772160344185",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260206201501-cw8y94v",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260206201501-cw8y94v"
+      },
+      "docIcon": "1f383",
+      "instance": "Tab",
+      "pin": false,
+      "title": "Network In Network"
+    },
+    {
+      "activeTime": "1772160345829",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260202164417-17f8s7v",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260202164417-17f8s7v"
+      },
+      "docIcon": "1f38d",
+      "instance": "Tab",
+      "pin": false,
+      "title": "CBAM"
+    },
+    {
+      "activeTime": "1772160346286",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260202164105-z33iw2s",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260202164105-z33iw2s"
+      },
+      "docIcon": "1f38d",
+      "instance": "Tab",
+      "pin": false,
+      "title": "SE Block"
+    },
+    {
+      "active": true,
+      "activeTime": "1772160374861",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260203094726-7rhefqi",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260203094726-7rhefqi"
+      },
+      "docIcon": "1f3ab",
+      "instance": "Tab",
+      "pin": false,
+      "title": "Faster R-CNN"
+    },
+    {
+      "activeTime": "1772160353021",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260203094626-3i6imtu",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260203094626-3i6imtu"
+      },
+      "docIcon": "1f3ab",
+      "instance": "Tab",
+      "pin": false,
+      "title": "Fast R-CNN"
+    },
+    {
+      "activeTime": "1772160354441",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260202093525-t8pxku0",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260202093525-t8pxku0"
+      },
+      "docIcon": "1f3c0",
+      "instance": "Tab",
+      "pin": false,
+      "title": "YoLoV1"
+    },
+    {
+      "active": true,
+      "activeTime": "1772160376844",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260207111751-bdk1agj",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260207111751-bdk1agj"
+      },
+      "docIcon": "1f94d",
+      "instance": "Tab",
+      "pin": false,
+      "title": "TransFormer"
+    },
+    {
+      "activeTime": "1772160370931",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260207111816-bwo195j",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260207111816-bwo195j"
+      },
+      "docIcon": "1f94d",
+      "instance": "Tab",
+      "pin": false,
+      "title": "Vision in TransFormer"
+    },
+    {
+      "activeTime": "1772160348233",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260203094519-qxx8y9q",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260203094519-qxx8y9q"
+      },
+      "docIcon": "1f3ab",
+      "instance": "Tab",
+      "pin": false,
+      "title": "R-CNN"
+    },
+    {
+      "activeTime": "1772161157233",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260203094519-qxx8y9q",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260203094519-qxx8y9q"
+      },
+      "docIcon": "1f3ab",
+      "instance": "Tab",
+      "pin": false,
+      "title": "R-CNN"
+    },
+    {
+      "activeTime": "1772161354680",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260203094519-qxx8y9q",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260203094519-qxx8y9q"
+      },
+      "docIcon": "1f3ab",
+      "instance": "Tab",
+      "pin": false,
+      "title": "R-CNN"
     }
   ],
   "local-codelang": "python",
@@ -543,20 +802,20 @@
   "local-fileposition": {
     "20260201125229-m656ezj": {
       "endId": "20260201125358-gq4yfo0",
-      "focusEnd": 21,
-      "focusId": "20260201125240-237z64x",
-      "focusStart": 21,
+      "focusEnd": 0,
+      "focusId": "20260201125240-46dbezw",
+      "focusStart": 0,
       "rootId": "20260201125229-m656ezj",
-      "scrollTop": 724,
+      "scrollTop": 5564,
       "startId": "20260201125313-54qvjzh"
     },
     "20260202093525-t8pxku0": {
-      "endId": "20260204182632-9uoxhhl",
-      "focusEnd": 4,
-      "focusId": "20260206191540-d4ck7ss",
-      "focusStart": 4,
+      "endId": "20260204182638-9powdw0",
+      "focusEnd": 18,
+      "focusId": "20260204182638-9powdw0",
+      "focusStart": 18,
       "rootId": "20260202093525-t8pxku0",
-      "scrollTop": 7162,
+      "scrollTop": 7962,
       "startId": "20260202203242-0gm3mgg"
     },
     "20260202164105-z33iw2s": {
@@ -570,6 +829,9 @@
     },
     "20260202164417-17f8s7v": {
       "endId": "20260202164423-s2xk2c2",
+      "focusEnd": 0,
+      "focusId": "20260202164423-k2xavgy",
+      "focusStart": 0,
       "rootId": "20260202164417-17f8s7v",
       "scrollTop": 0,
       "startId": "20260202164423-k2xavgy"
@@ -589,13 +851,13 @@
       "focusId": "20260207143931-64ucgo7",
       "focusStart": 18,
       "rootId": "20260203094519-qxx8y9q",
-      "scrollTop": 1980,
+      "scrollTop": 500,
       "startId": "20260207103030-6fkv4zy"
     },
     "20260203094626-3i6imtu": {
-      "endId": "20260203094626-emo8vx5",
+      "endId": "20260227112124-7eekyot",
       "focusEnd": 0,
-      "focusId": "20260203094626-emo8vx5",
+      "focusId": "20260227112124-7eekyot",
       "focusStart": 0,
       "rootId": "20260203094626-3i6imtu",
       "scrollTop": 0,
@@ -657,9 +919,9 @@
     },
     "20260206201501-cw8y94v": {
       "endId": "20260206201512-w2t7g95",
-      "focusEnd": 12,
+      "focusEnd": 18,
       "focusId": "20260206201512-ogmcwwd",
-      "focusStart": 12,
+      "focusStart": 18,
       "rootId": "20260206201501-cw8y94v",
       "scrollTop": 3200,
       "startId": "20260206201512-c806zkl"
@@ -674,13 +936,13 @@
       "startId": "20260206202414-ybrt1h9"
     },
     "20260206210129-bl91eag": {
-      "endId": "20260206210129-ztts770",
+      "endId": "20260225140355-fz44dtg",
       "focusEnd": 0,
-      "focusId": "20260206210129-ztts770",
+      "focusId": "20260225140355-fz44dtg",
       "focusStart": 0,
       "rootId": "20260206210129-bl91eag",
       "scrollTop": 0,
-      "startId": "20260206210129-ztts770"
+      "startId": "20260225140338-sglski1"
     },
     "20260206210712-jzzl8nj": {
       "endId": "20260206210712-e96yofa",
@@ -733,7 +995,7 @@
       "focusId": "20260209131655-5lna48f",
       "focusStart": 0,
       "rootId": "20260207111601-2jwxjxd",
-      "scrollTop": 100,
+      "scrollTop": 2942,
       "startId": "20260209131655-5lna48f"
     },
     "20260207111650-ljbch8c": {

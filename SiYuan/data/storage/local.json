@@ -754,6 +754,131 @@
       "instance": "Tab",
       "pin": false,
       "title": "R-CNN"
+    },
+    {
+      "active": true,
+      "activeTime": "1772243513159",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260228095152-2swmejd",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260228095152-2swmejd"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "1机械专业的出路"
+    },
+    {
+      "activeTime": "1772244960408",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260228095052-r193uak",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260228095052-r193uak"
+      },
+      "docIcon": "1f30d",
+      "instance": "Tab",
+      "pin": false,
+      "title": "人生见解"
+    },
+    {
+      "active": true,
+      "activeTime": "1772244978436",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260203094626-3i6imtu",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260203094626-3i6imtu"
+      },
+      "docIcon": "1f3ab",
+      "instance": "Tab",
+      "pin": false,
+      "title": "Fast R-CNN"
+    },
+    {
+      "active": true,
+      "activeTime": "1772244983064",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260207111601-2jwxjxd",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260207111601-2jwxjxd"
+      },
+      "docIcon": "1f3c0",
+      "instance": "Tab",
+      "pin": false,
+      "title": "YoLoV2"
+    },
+    {
+      "active": true,
+      "activeTime": "1772245979032",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260207111751-bdk1agj",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260207111751-bdk1agj"
+      },
+      "docIcon": "1f94d",
+      "instance": "Tab",
+      "pin": false,
+      "title": "TransFormer"
+    },
+    {
+      "active": true,
+      "activeTime": "1772246003043",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260207111816-bwo195j",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260207111816-bwo195j"
+      },
+      "docIcon": "1f94d",
+      "instance": "Tab",
+      "pin": false,
+      "title": "Vision in TransFormer"
+    },
+    {
+      "activeTime": "1772245061957",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260207111601-2jwxjxd",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260207111601-2jwxjxd"
+      },
+      "docIcon": "1f3c0",
+      "instance": "Tab",
+      "pin": false,
+      "title": "YoLoV2"
+    },
+    {
+      "activeTime": "1772246003942",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260207105800-v8xfwhy",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260131193731-hioycx5",
+        "rootId": "20260207105800-v8xfwhy"
+      },
+      "docIcon": "1f94d",
+      "instance": "Tab",
+      "pin": false,
+      "title": "DETR"
     }
   ],
   "local-codelang": "python",
@@ -860,7 +985,7 @@
       "focusId": "20260227112124-7eekyot",
       "focusStart": 0,
       "rootId": "20260203094626-3i6imtu",
-      "scrollTop": 0,
+      "scrollTop": 44,
       "startId": "20260203094626-emo8vx5"
     },
     "20260203094726-7rhefqi": {
@@ -919,11 +1044,11 @@
     },
     "20260206201501-cw8y94v": {
       "endId": "20260206201512-w2t7g95",
-      "focusEnd": 18,
+      "focusEnd": 24,
       "focusId": "20260206201512-ogmcwwd",
-      "focusStart": 18,
+      "focusStart": 24,
       "rootId": "20260206201501-cw8y94v",
-      "scrollTop": 3200,
+      "scrollTop": 2362.39990234375,
       "startId": "20260206201512-c806zkl"
     },
     "20260206202357-gdymd2a": {
@@ -992,10 +1117,10 @@
     "20260207111601-2jwxjxd": {
       "endId": "20260209141531-12dz191",
       "focusEnd": 0,
-      "focusId": "20260209131655-5lna48f",
+      "focusId": "20260209141531-12dz191",
       "focusStart": 0,
       "rootId": "20260207111601-2jwxjxd",
-      "scrollTop": 2942,
+      "scrollTop": 1135,
       "startId": "20260209131655-5lna48f"
     },
     "20260207111650-ljbch8c": {
@@ -1008,12 +1133,12 @@
       "startId": "20260207111650-vuqeeom"
     },
     "20260207111751-bdk1agj": {
-      "endId": "20260207144729-uj4ze9o",
-      "focusEnd": 24,
-      "focusId": "20260207144729-ufyloxk",
-      "focusStart": 24,
+      "endId": "20260228103317-jzorktw",
+      "focusEnd": 40,
+      "focusId": "20260207144729-7dc872l",
+      "focusStart": 40,
       "rootId": "20260207111751-bdk1agj",
-      "scrollTop": 0,
+      "scrollTop": 5745,
       "startId": "20260207144729-9oki8jv"
     },
     "20260207111816-bwo195j": {
@@ -1078,6 +1203,24 @@
       "rootId": "20260213111013-co87j01",
       "scrollTop": 0,
       "startId": "20260213111013-oz7l3e0"
+    },
+    "20260228095052-r193uak": {
+      "endId": "20260228101617-s9f1xra",
+      "focusEnd": 0,
+      "focusId": "20260228101617-s9f1xra",
+      "focusStart": 0,
+      "rootId": "20260228095052-r193uak",
+      "scrollTop": 118,
+      "startId": "20260228095142-usfzcgu"
+    },
+    "20260228095152-2swmejd": {
+      "endId": "20260228101558-tjcqf3k",
+      "focusEnd": 0,
+      "focusId": "20260228101558-tjcqf3k",
+      "focusStart": 0,
+      "rootId": "20260228095152-2swmejd",
+      "scrollTop": 0,
+      "startId": "20260228095152-n6qe23c"
     }
   },
   "local-filespaths": [

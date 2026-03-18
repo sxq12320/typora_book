@@ -297,7 +297,7 @@
               ],
               "direction": "tb",
               "instance": "Layout",
-              "size": "315px",
+              "size": "0px",
               "type": "left"
             },
             {
@@ -305,65 +305,125 @@
                 {
                   "children": [
                     {
-                      "activeTime": "1772690414072",
+                      "activeTime": "1773489691298",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20260207111650-ljbch8c",
+                        "blockId": "20260206210129-bl91eag",
                         "instance": "Editor",
                         "mode": "wysiwyg",
                         "notebookId": "20260131193731-hioycx5",
-                        "rootId": "20260207111650-ljbch8c"
+                        "rootId": "20260206210129-bl91eag"
                       },
-                      "docIcon": "1f3c0",
+                      "docIcon": "1f347",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "YoLoV3"
+                      "title": "开题相关问题"
                     },
                     {
-                      "active": true,
-                      "activeTime": "1772776392079",
+                      "activeTime": "1773735073674",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20260213110830-e0g7dxq",
+                        "blockId": "20260201125229-m656ezj",
                         "instance": "Editor",
                         "mode": "wysiwyg",
                         "notebookId": "20260131193731-hioycx5",
-                        "rootId": "20260213110830-e0g7dxq"
-                      },
-                      "docIcon": "1f3c0",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "YoLoV5"
-                    },
-                    {
-                      "activeTime": "1772761178922",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20260206183337-lnb1wqb",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20260131193731-hioycx5",
-                        "rootId": "20260206183337-lnb1wqb"
-                      },
-                      "docIcon": "api/icon/getDynamicIcon?type=6\u0026amp;color=%23d23f31\u0026amp;date=2026-02-06\u0026amp;weekdayType=1\u0026amp;lang=",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "神经网络学习"
-                    },
-                    {
-                      "activeTime": "1772690394539",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20260202164715-elrrqem",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20260131193731-hioycx5",
-                        "rootId": "20260202164715-elrrqem"
+                        "rootId": "20260201125229-m656ezj"
                       },
                       "docIcon": "1f383",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "MobileNet V1"
+                      "title": "LeNet-5"
+                    },
+                    {
+                      "active": true,
+                      "activeTime": "1773814514676",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20260303104111-ljr4mxk",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20260131193731-hioycx5",
+                        "rootId": "20260303104111-ljr4mxk"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "YoLo环境配置"
+                    },
+                    {
+                      "activeTime": "1773538021332",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20260206191940-pxl4245",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20260131193731-hioycx5",
+                        "rootId": "20260206191940-pxl4245"
+                      },
+                      "docIcon": "1f383",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "AlexNet"
+                    },
+                    {
+                      "activeTime": "1773538157479",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20260206192147-45jp7aq",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20260131193731-hioycx5",
+                        "rootId": "20260206192147-45jp7aq"
+                      },
+                      "docIcon": "1f383",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "VGGNet"
+                    },
+                    {
+                      "activeTime": "1773538439595",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20260206192314-s2ofdp1",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20260131193731-hioycx5",
+                        "rootId": "20260206192314-s2ofdp1"
+                      },
+                      "docIcon": "1f383",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "GoogleNet"
+                    },
+                    {
+                      "activeTime": "1773539051009",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20260206201501-cw8y94v",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20260131193731-hioycx5",
+                        "rootId": "20260206201501-cw8y94v"
+                      },
+                      "docIcon": "1f383",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Network In Network"
+                    },
+                    {
+                      "activeTime": "1773537770166",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20260206192508-7vlgudd",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20260131193731-hioycx5",
+                        "rootId": "20260206192508-7vlgudd"
+                      },
+                      "docIcon": "1f383",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "ResNet"
                     }
                   ],
                   "height": "",
@@ -443,7 +503,7 @@
             "hotkey": "⌥2",
             "hotkeyLangId": "outline",
             "icon": "iconAlignCenter",
-            "show": true,
+            "show": false,
             "size": {
               "height": 0,
               "width": 315
@@ -491,7 +551,7 @@
           }
         ]
       ],
-      "pin": false
+      "pin": true
     },
     "right": {
       "data": [
@@ -539,21 +599,21 @@
       "pin": true
     }
   },
-  "userData": "d716d5d6812229ac440f08261821941a436e5eb6dc6988ecbda1b08b0287fde9c597bd16aa54111d44b5b0f30ec9f1ed4742dde3e3b6efde6f060a874e2ec185bb3085ad5a61cef714daf4e3319937ee1b49aab8aa4fee42c11285299871daa296eb5add30f95e95376cf04719f0a3e94897da879b375df67c52734a75d8edadbd1562293bc9617cd6d6d6a91e60cd5f665ef2f80cfdc7def565c6deb49a29f4a89ae9faf0ff227d5704e6e8756ccec6f9b1d2b5f8198877b6eeeee08d5904dd61e0aa41a84a236c75f542af8ede079cb26b9791ec4f663bb0197d6d08061985a806d698737c8222a862107bdb9ac839c082205a92d8535bd110eb029f6f7cc7d040ed0b9ce22e2e826f228f84bb1e9a4000ca27b9b9e6dfe9b1531aef9c4ced2898ce8779c450bd284176c463d8ea4fd5231f7557decda69471c322310f67fdc353229e2b8332cb356bcce21d2e2be673d9fba72d40d76bba989bbd406c90ac44c89c6dd78868c666d72cb4fc5a17bb49f941c775a28bd68c1683d3cc3d7be6665f4afb10a8d6f2c5296a8c30bbb882932ca7b4463d26ef6e4f8d7a067b736a16a2659322e205a5e02b26344569073c2e9e0bb7ff0bdbeef7ec05fcf091471fec4df9e432b03cd5349ff3f0b3814fd0a5acbd3855e6c2bba1a6c135b036dc5db7fdc5f5625c2bbffe0ed7d237481fe3e2259a11d25d9bd78e977ab53995ac11bf9be8c84e6299a54c7bf6a2448adf14450aa12ea1a592c4ce2d0f60f9acf2853826bb3622f4d5c70402005304bfb0312e4456d81ee0c5757acf4045955ba895d432243eed20d4bd4e3415a61c9c6804525f56ea7a0d478519cb49cc8aa2eea5a66a2970342da58c27e8dec78f627f546577ae6b9a8950a7f13b0773b6926ceef64f3d9dbef789b9ba4c0a2e4818b5f19b04f2e6c235aa77d757f71918025cf6984e012372d9be3cff0f43b8d565b24b7ec995307c2dc784f3451cb03da04df9ef5de693566b7ec96c1c8a8e212ed3902ad634bc92ce4b2d9d24ac5e4271fda0daa5fd74d3d112dd2d06cf4433bfee2e898b3cdc526d0c1bb077107c1b619c1f7c0a1c68270aff43bfe4a6175897291c72aaca15919d11af07cecbc4ee01fde699eeb677534e41218536e5fe039f1e9fc332df9e5994ea53b6a0be6532165763da1415ed696dd39523d9510696649e57362d79160d82541a3e5f0bace0f5e07bd83a8292fe3d599f641f3171904439a10f93d30750cf228a54cc4f43e6bd1f381209a3d79a53493f979f6c1ffa14e9169594a7c2895d4bb080094aaeb87248785a608898cd3fb215ad13d331e588d0d895916835293b46676e8cf0e459806058ecc50b77d6f59e1e92d45854cf368e59869d37e1ee11608f251c93f0c7c76b6d72de7ee33f9dfdead7b349fdcca62fa3cada0874660b93c8d5765a6a0c1d9e8a51ee69ba3ba998d4fa61539f59fc79a00fa13977d278a069c6f8044a7427d3734eee927382f8560315a9d965c5926ce160f1e978c3cc26f8d57744439e545f5054383643c8c9aaf1f7489e47db8f2054d112361f247848108796d41c677cfc2be20bdebe8dae530e0274693aa1151f256f37728b088ae6ab7324021e3f1cec1f09c4b4d5d03191ed946f0eee1508f0f7a90f5b4f187f6e2552c907238865eae1a28a45190a227857fc01b406bf127a57ba1a31599d439c0e1df8bb167647665a74a2a19c73ed2f9967e828436bedb5c0b126f8a76488084a51f7da944f08afef8c47595b024332ec11426f6e116a332c431883c4075d78e7e903a88e85c6939e23d61d514fdecf70cfbd7340878cc3c85b560f09ce9e7d38f8a2a4e0d5848b321d999fa2c47ef4bb1b79ad912644e608fa682ff01cbba2122b60abf1a2effe98d7de06ef7b64f7cfacb64b63c9b4dbcae1e37de6ffefa5da611afdebeddf3d0d94f9a20860a97e77b79639a238f1676949a379208155bb86ea70087051902a0e85a5550c9d38fd6c750d3f7d0368f180c32758fa7c4db516afc839a092e2f406ef90948433279b8d738e566ecca47d49762908d131b2bff38a8f34da00e99ec4bf89940e34d747d589be22a2651dc84cac91b1950b09618876b7ef4d53c15b9d464912578fb49c3d07b1bda64763305360f002e6acb325f1226de5a561781bfccb539356c175c994255b4194c5d67facfd126386c1ee1b08aa6f798b0433c6ea9af43fb9888faff8a32c29291e77676c5519a8a4f3dd7fc7a1f28bacf9b5a342134f96c2a7211c8576aef17d4fe32cc56e04a0d9895a4784bbed281cb9cd663b29c36952d6197d4e3d378b5852a4d792d6137b5e8c9289013c70bf3a6f50e1de66263788155c8108537c4b20ce86061458388bc8f2ca4783d49ecb485d6ec282a268b8b74947f05ed7c104306704360d6fe4aff1564cd440b94602d22291d1ef607300b8c5e8b5cc555968bf98beaf8d970abfe038ec51ef0490f9bd97b6458562592eb85bb0ad9a89b0fba68dbf708b195937f27bbb9da71f2869ea1a4bf2c753cec43af1d2da78d5913f2f4310e4c5b40aef823651f73abb86680f3b6b3128408fb59757f7b61123654a6501153e98e2c264070fdcd11c9c3aba092a06a61e07ae2291e614b6b8713aad73b0870f45e22fb723a79cda712b176090a170e9a3ab5c2ae2a9a3cf2b3254e2af481f69f0176eb3c1615d202c9615e9479d49464ac9839145a4b3c678ed96c3e21581fe8c3ec348de6cdc691d2471e8bfa59228335de405d8fc885ce61bef3955cdf6e6368121569d9a809a3a9e1207f75f2713904970f54cb4cc5120aceb5254c99567ae5dd4e6f375f5b692e7d67a969ede87c47149617f24c3e973e9046e498723cd18ba5db48b2f39e33d9addcac17e56160bc8fb4f31d5add5989d16f98492096adcf17d064fed51c3daa25f1149ffc05151627f67778455e4692acf573bb25470c5a41738c223e7966085ddb4f4ba0d21498189fe9253bbe9dbcaa080a63baa70566488aa24b90449f2c4c56c5009889df4f712b52581910557cb911477b26e6e8bdc93e3e2fdff47cb2f700deb88c7cfea28500d948e8865121bbf793a92ff4af96c16b0758b829aea29822a446df286f322e33cb0ba7e70e418665130be0dbce502c3afb0e6ca84b8be38b184a8ffbfca06239950c42a174d8690f44197f18d62362e5c1b77fe68f1fc80a659aa0ed22f15232c0dc2734d5e0b50530323f80a84dfba70101946fed6ae66a252532ea54b",
+  "userData": "d716d5d6812229ac440f08261821941a436e5eb6dc6988ecbda1b08b0287fde9c597bd16aa54111d44b5b0f30ec9f1ed4742dde3e3b6efde6f060a874e2ec185bb3085ad5a61cef714daf4e3319937ee1b49aab8aa4fee42c11285299871daa296eb5add30f95e95376cf04719f0a3e94897da879b375df67c52734a75d8edadbd1562293bc9617cd6d6d6a91e60cd5f665ef2f80cfdc7def565c6deb49a29f4a89ae9faf0ff227d5704e6e8756ccec6f9b1d2b5f8198877b6eeeee08d5904dd61e0aa41a84a236c75f542af8ede079cb26b9791ec4f663bb0197d6d08061985a806d698737c8222a862107bdb9ac839c082205a92d8535bd110eb029f6f7cc7d040ed0b9ce22e2e826f228f84bb1e9a4000ca27b9b9e6dfe9b1531aef9c4ced2898ce8779c450bd284176c463d8ea4fd5231f7557decda69471c322310f67fdc353229e2b8332cb356bcce21d2e2be673d9fba72d40d76bba989bbd406c90ac44c89c6dd78868c666d72cb4fc5a17bb49f941c775a28bd68c1683d3cc3d7be6665f4afb10a8d6f2c5296a8c30bbb882932ca7b4463d26ef6e4f8d7a067b736a16a2659322e205a5e02b26344569073c2e9e0bb7ff0bdbeef7ec05fcf091471fec4df9e432b03cd5349ff3f0b3814fd0a5acbd3855e6c2bba1a6c135b036dc5db7fdc5f5625c2bbffe0ed7d237481fe3e2259a11d25d9bd78e977ab53995ac11bf9be8c84e6299a54c7bf6a2448adf14450aa12ea1a592c4ce2d0f60f9acf2853826bb3622f4d5c70402005304bfb0312e4456d81ee0c5757acf4045955ba895d432243eed20d4bd4e3415a61c9c6804525f56ea7a0d478519cb49cc8aa2eea5a66a2970342da58c27e8dec78f627f546577ae6b9a8950a7f13b0773b6926ceef64f3d9dbef789b9ba4c0a2e4818b5f19b04f2e6c235aa77d757f71918025cf6984e012372d9be3cff0f43b8d565b24b7ec995307c2dc784f3451cb03da04df9ef5de693566b7ec96c1c8a8e212ed3902ad634bc92ce4b2d9d24ac5e4271fda0daa5fd74d3d112dd2d06cf4433bfee2e898b3cdc526d0c1bb077107c1b619c1f7c0a1c68270aff43bfe4a6175897291c72aaca15919d11af07cecbc4ee01fde699eeb677534e41218536e5fe039f1e9fc332df9e5994ea53b6a0be6532165763da1415ed696dd39523d9510696649e57362d79160d82541a3e5f0bace0f5e07bd83a8292fe3d599f641f3171904439a10f93d30750cf228a54cc4f43e6bd1f381209a3d79a53493f979f6c1ffa14e9169594a7c2895d4bb080094aaeb87248785a608898cd3fb215ad13d331e588d0d895916835293b46676e8cf0e459806058ecc50b77d6f59e1e92d45854cf368e59869d37e1ee11608f251c93f0c7c76b6d72de7ee33f9dfdead7b349fdcca62fa3cada0874660b93c8d5765a6a0c1d9e8a51ee69ba3ba998d4fa61539f59fc79a00fa13977d278a069c6f8044a7427d3734eee927382f8560315a9d965c5926ce178d65af5e9dd589894cb3ee449b38f4a8d2a9eb78938babade1ed6f6ca1d15005ff099bd2c71269f0c01983c26d37c68327bd8f30a49c87862dbddb9f40ca9116fdf73afe2756380db967f2093cc2db07ec289b7fe2fb571cffeda3dfbd1a1ac4fb76184d1458f540c3caee8a536d0f446024227f09d78d39e86a24ad655af96b97ccbcf20fc13b491dbcce5fbb5f09f10b1e011415c8f8f6ae7331cf2f85f3bc61d2d5fc92ea29d48cd6fe8b51957c3d02081166194e35d795992d5b233412102c0b9db1ac9143b14c2a6d0ea21a79d55067a88db809936b7e9fbfb39e8a09df951b87625fc370cd6ee6a48d3315e2b1f51a7ab199c1ad35779f614412d5bb3ddafa47abda63e9011a925f2e6d282266a5c610eb4c26eecb0b0ae2e3b4ee3157d38a7cac6573379fb04bda4e3c22b827c76abb87c967bcd058ec51b3f37ebf39a518dad5df5ba4e966aaeebd200eb61844179380d4b3beea2adcf542553887e71ff897e68f8cd2f883b6a896024866ab09045ad100d9dd23e4df3169e253e74c0d80c073dda8262dba082c57415f0208eee33e6c98c1cc766f1a4afd2b690d94f7cd88e62d2266fae13cfbd2440023cf4984783d506725d17815ead1de5775acb3a3facef12adcf1522fddac0248aeb5a592deb4351d302ef8decaf5bb791591a6dfac2607891a1b4e59fcef025d67db2de1eeb588e62fcba2b7c5888210dc50bac648a484bb5ac67c2da6eb74f78ecc922e38e27b37bbc1526cee6b9db66bf07faf01a9ef94db9dd7d7148badff4028ffaf030de60760c748f2005527fb8b3b333fcb73f54097cdd0c09e11503df963721c679561190c658518279c096e3653d9200a13ff40959792972ea1fda5df5ffbb43956aa146a60633fd21962968f17a7ce949d5861c7e06a5413ef67cbcf571688b369010fdbb97abec0bdff4f444fe87193e8e6c332fdc3c993d5ad5e64007e7e3eca83313ebd9329514f155fd54e245cd9236dc17c8dbfcee83b255843d4ad886476d4ae661710dcda755c5039fd30a9c67535dcf52a095b1534d44f70f500ba4a379bb7ea5d64d8e65d5f7768ec28e3eb3a1fe7680cd05a95a53cc7c1fbaab770e766c1c7bdc817bc6682ac11da115eddd453dbb9020ae77050454a0c7752c05e0f503b49fecdce395e2f6e0c8e6bbfe975a8840d899f2698f2df3accb04d4451d80e0a47408ebaa0bec7f0cb8705159205f62dfe98bcdfd51514799a67ca10b56f9dedd55f58d113344e42eecf29e54cb299fdbc48e56f120173e723b125f4f42e0773209a6a2b6d0130f9f0431eca6b9adaf90d52e359225f1eadef9367a299e20350125291805d4e780760d165db5e3f652663e3b6f38ec293d7c8d01c43bcfaa930af29ac817a1a07aafaaaaa0092eeb2700d81eea8ce80eebb0359f44f6e19497c0934ad6a3773e90d6079b57cc9c55adb21b671b2d46bfc15741b1fb11f399275e325ac138a4d4c5ce2d6d42fe488ce41179f967cf707cbb5f3358bec1e9035f86306ac4b20bff2f30cedf5657c3c5e4f862863ee421bbdb3ad8988dde6c5a090a50963f77db54b415528cfc847512b44ec45d3c8b374c54c58335dd992c2f522efb7b9e5f7a8b602fdda0287a32f41ad3e051344c1e6b07fb63b24692f0f322f751159c177b761dab59f33c77d0aa09f268447013bfa110dd449e6dcdfc647fbfdf98d479692d30fb7a1eb8c1ad2d2748944eec4a2f38587121",
   "account": {
     "displayTitle": true,
     "displayVIP": true
   },
   "readonly": false,
   "serverAddrs": [
-    "http://172.22.167.1:14953",
-    "http://127.0.0.1:14953"
+    "http://172.22.167.1:6806",
+    "http://127.0.0.1:6806"
   ],
   "accessAuthCode": "",
   "system": {
     "id": "57baa89b-61a5-4598-aca4-16f5d29f695c",
     "name": "sxq",
-    "kernelVersion": "3.5.9",
+    "kernelVersion": "3.6.1",
     "os": "windows",
     "osPlatform": "Microsoft Windows 11 Home China",
     "container": "std",
@@ -1331,7 +1391,7 @@
       "apiTemperature": 1,
       "apiMaxContexts": 7,
       "apiBaseURL": "https://api.openai.com/v1",
-      "apiUserAgent": "SiYuan/3.5.9 std/windows",
+      "apiUserAgent": "SiYuan/3.6.1 std/windows",
       "apiProvider": "OpenAI",
       "apiVersion": ""
     }
@@ -1341,13 +1401,13 @@
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 28,
+    "treeCount": 25,
     "cTreeCount": 100,
-    "blockCount": 1954,
+    "blockCount": 2402,
     "cBlockCount": 5000,
-    "dataSize": 86987114,
+    "dataSize": 89339987,
     "cDataSize": 104857600,
-    "assetsSize": 56459206,
+    "assetsSize": 58762292,
     "cAssetsSize": 104857600
   },
   "api": {

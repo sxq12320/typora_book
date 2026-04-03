@@ -4,7 +4,7 @@
 
 这个就是官方的下载链接：[Github仓库链接地址 ](https://github.com/ultralytics/ultralytics)
 
-<img src="https://raw.githubusercontent.com/sxq12320/typora_book/main//img_20260318143430788.png" alt="image-20260318134534056"  />
+<img src="assets/img_20260318143430788.png" alt="image-20260318134534056"  />
 
 下载完毕之后，我们使用自己的编译器将整个代码进行打开，打开的是整个文件夹。现在假设文件夹的名称为***ultralytics-main*。**在这个基础上进行路径的修改和说明
 
@@ -16,7 +16,7 @@
 
 其地址位于：`ultralytics-main\ultralytics\cfg\models`
 
-![image-20260318135230683](https://raw.githubusercontent.com/sxq12320/typora_book/main//img_20260318143432601.png)
+![image-20260318135230683](assets/img_20260318143432601.png)
 
 上面这张图片就是`yolo11`模型的架构，现在将逐个说明相关的参数：
 
@@ -44,28 +44,28 @@
 > 这里用一个比较简单的注意力机制模块为例子说明。
 
 1. 打开`ultralytics-main\ultralytics\nn\modules\block.py`文件，我们需要在这里面将自己的模块进行定义。写进去即可
-    ![image-20260318141028419](https://raw.githubusercontent.com/sxq12320/typora_book/main//img_20260318143436823.png)
+    ![image-20260318141028419](assets/img_20260318143436823.png)
 
 2. 在`ultralytics-main\ultralytics\nn\modules\__init__.py`文件中将上面定义的模块进行两次申明
 
     1. 在`from .block import (`中进行申明
-        ![image-20260318141342476](https://raw.githubusercontent.com/sxq12320/typora_book/main//img_20260318143442748.png)
+        ![image-20260318141342476](assets/img_20260318143442748.png)
 
     2. 在`__all__ = (`中进行申明
 
-        ![image-20260318141502880](https://raw.githubusercontent.com/sxq12320/typora_book/main//img_20260318143444525.png)
+        ![image-20260318141502880](assets/img_20260318143444525.png)
 
 3. 在`ultralytics-main\ultralytics\nn\tasks.py`中也需要进行两次申明
 
     1. 在最上面的`from ultralytics.nn.modules import (`中进行第一次申明
-        ![image-20260318141703467](https://raw.githubusercontent.com/sxq12320/typora_book/main//img_20260318143448863.png)
+        ![image-20260318141703467](assets/img_20260318143448863.png)
 
     2. 在后面的`  base_modules = frozenset(`中进行第二次申明
 
-        ![image-20260318141745338](https://raw.githubusercontent.com/sxq12320/typora_book/main//img_20260318143452186.png)
+        ![image-20260318141745338](assets/img_20260318143452186.png)
 
 4. 最后在`ultralytics-main\ultralytics\cfg\models\11`中重新修改自己的模型架构即可，具体的修改方法，可以参考*人工智能*。
-    ![image-20260318141916562](https://raw.githubusercontent.com/sxq12320/typora_book/main//img_20260318143440798.png)
+    ![image-20260318141916562](assets/img_20260318143440798.png)
 
 5. 然后就可以运行自己的代码了。
 

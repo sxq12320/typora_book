@@ -987,20 +987,19 @@
       "title": "Network In Network"
     },
     {
-      "active": true,
-      "activeTime": "1773729025708",
+      "activeTime": "1774577626126",
       "children": {
         "action": "cb-get-scroll",
-        "blockId": "20260213110953-2w6klf0",
+        "blockId": "20260206183337-lnb1wqb",
         "instance": "Editor",
         "mode": "wysiwyg",
         "notebookId": "20260131193731-hioycx5",
-        "rootId": "20260213110953-2w6klf0"
+        "rootId": "20260206183337-lnb1wqb"
       },
-      "docIcon": "1f3c0",
+      "docIcon": "api/icon/getDynamicIcon?type=6\u0026amp;color=%23d23f31\u0026amp;date=2026-02-06\u0026amp;weekdayType=1\u0026amp;lang=",
       "instance": "Tab",
       "pin": false,
-      "title": "YoLoV11"
+      "title": "神经网络学习"
     }
   ],
   "local-codelang": "python",
@@ -1181,8 +1180,11 @@
     },
     "20260206210129-bl91eag": {
       "endId": "20260314153426-2s90ku1",
+      "focusEnd": 0,
+      "focusId": "20260309145643-ce0kcim",
+      "focusStart": 0,
       "rootId": "20260206210129-bl91eag",
-      "scrollTop": 2301,
+      "scrollTop": 2300,
       "startId": "20260309095446-81k6rvh"
     },
     "20260206210712-jzzl8nj": {
@@ -1250,11 +1252,11 @@
     },
     "20260207111751-bdk1agj": {
       "endId": "20260228103317-jzorktw",
-      "focusEnd": 40,
-      "focusId": "20260207144729-7dc872l",
-      "focusStart": 40,
+      "focusEnd": 0,
+      "focusId": "20260228103317-jzorktw",
+      "focusStart": 0,
       "rootId": "20260207111751-bdk1agj",
-      "scrollTop": 5745,
+      "scrollTop": 5427.2001953125,
       "startId": "20260207144729-9oki8jv"
     },
     "20260207111816-bwo195j": {
@@ -1287,7 +1289,7 @@
       "focusId": "20260306132647-0ry3dsn",
       "focusStart": 47,
       "rootId": "20260213110830-e0g7dxq",
-      "scrollTop": 4449,
+      "scrollTop": 4448,
       "startId": "20260213110830-5d7tu07"
     },
     "20260213110904-nr8gnum": {
@@ -1307,9 +1309,6 @@
     },
     "20260213110953-2w6klf0": {
       "endId": "20260213110953-litg3mv",
-      "focusEnd": 0,
-      "focusId": "20260213110953-litg3mv",
-      "focusStart": 0,
       "rootId": "20260213110953-2w6klf0",
       "scrollTop": 0,
       "startId": "20260213110953-litg3mv"
@@ -1340,8 +1339,11 @@
     },
     "20260303104111-ljr4mxk": {
       "endId": "20260304135938-9jwdlgp",
+      "focusEnd": 0,
+      "focusId": "20260303104111-zflyln7",
+      "focusStart": 0,
       "rootId": "20260303104111-ljr4mxk",
-      "scrollTop": 4100,
+      "scrollTop": 3036,
       "startId": "20260303104111-zflyln7"
     },
     "20260303160803-8kow81n": {
@@ -1355,14 +1357,7 @@
       "zoomInId": "20260308100904-efhm73s"
     }
   },
-  "local-filespaths": [
-    {
-      "notebookId": "20260131193731-hioycx5",
-      "openPaths": [
-        "/20260206183337-lnb1wqb/20260201125229-m656ezj.sy"
-      ]
-    }
-  ],
+  "local-filespaths": [],
   "local-plugin-docks": {
     "Calendar-heatmap": {},
     "GIT-SYNC-PLUGIN": {},

@@ -4,7 +4,7 @@
 >
 > *ConvNeXt*是*FaceBook*于*2022*年在论文*A ConvNet for 2020s*中提出的，全文非常硬气的使用纯粹的卷积神经网络，希望曾经盛极一时的卷积神经网路能够重现往日的荣光。
 
-![image-20260127085723019](https://img2024.cnblogs.com/blog/3693258/202601/3693258-20260127195820526-2080966440.png)
+![image-20260127085723019](https://i0.hdslb.com/bfs/openplatform/7c63780c6dcec7e4b49515166d91a05c12e688fd.png)
 
 ---
 
@@ -22,7 +22,7 @@
 
 那么，在这个前提之下，卷积神经网络真的是一无是处吗？卷积神经网络在今后就没有超越*TransFormer*的可能性吗？基于此作者认为，纯粹的卷积神经网络依然由提升的空间，毕竟Swin TransFormer的一些设计也是向着卷积神经网络的思路来借鉴的，那么我们也可以借鉴一下人家的设计思路。
 
-<img src="https://img2024.cnblogs.com/blog/3693258/202601/3693258-20260127200019475-2007027951.png" alt="image-20260127092546015"  />
+<img src="https://i0.hdslb.com/bfs/openplatform/f24b9b9960ce4bd8d49d16ac5979d4fd8d4c8362.png" alt="image-20260127092546015"  />
 
 由此$ConvNeXt$就油然而生了
 
@@ -79,7 +79,7 @@
 **改进十：**将原本的批量归一化$BN$变成了现在的层归一化$LN$。
 
 > 这一块的具体改进论文中的附图非常好的显示出来了。
-> ![image-20260127094549313](assets/image-20260127094549313.png)
+> ![image-20260127094549313](https://i0.hdslb.com/bfs/openplatform/49ee1e131c25da5ab786f12c6ca86b4ad80081ae.png)
 
 经过这一系列的改进，原本的*ResNet*就焕然一新，重新成为现在的*ConvNeXt*了，他的精度甚至打败了当时最强的网络架构*Swin-T*。
 
@@ -97,7 +97,7 @@
 
 下面的表格中就是整体的模型框架图
 
-![image-20260127094815882](assets/image-20260127094815882.png)
+![image-20260127094815882](https://i0.hdslb.com/bfs/openplatform/2cecec6c02c30e07613ef5c18ae74d50951b071c.png)
 
 首先就是导入具体的一些库，这里主要还是使用*Pytorch*模块的。
 

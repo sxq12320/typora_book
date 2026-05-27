@@ -8,7 +8,7 @@
 
 ---
 
-![image-20260124202341452](https://img2024.cnblogs.com/blog/3693258/202601/3693258-20260124205537038-742388392.png)
+![image-20260124202341452](https://i0.hdslb.com/bfs/openplatform/da9eaca14a750593bdc41a0a6b432660cf30137c.png)
 
 ---
 
@@ -20,7 +20,7 @@
 
 但是一味的提高宽度和深度，不仅仅会造成计算以及参数量的过大，还会造成不知道为什么出现的精度下降的情况。就和下面图片中展示的这样子。
 
-![image-20260124202834645](https://img2024.cnblogs.com/blog/3693258/202601/3693258-20260124205538267-1221907051.png)
+![image-20260124202834645](https://i0.hdslb.com/bfs/openplatform/d17cfa905e1015882ae716421da9e9952ed5752f.png)
 
 非常的出人意料，更加深的网络但是训练的精度却远远没有低深度的网络来的好，这个问题在当时是非常难以相信的一件事情
 
@@ -47,7 +47,7 @@
 
 > 这里使用块的结构就是和之前的*VGGNet*的结构有异曲同工之妙，可见VGG最强的并非是全篇使用小卷积核，而是将网络使用块的结构来处理的。这就是*VGGNet*最大的贡献，虽然学习的深入，这个贡献的感受应该是越来越深刻。
 
-<img src="https://img2024.cnblogs.com/blog/3693258/202601/3693258-20260124205540684-132572178.png" alt="image-20260124203754352" style="zoom:50%;" />
+<img src="https://i0.hdslb.com/bfs/openplatform/7689774ce4d854547538269dfcfb2ef1be7a87b8.png" alt="image-20260124203754352" style="zoom:50%;" />
 
 这里我们假设理想的输入是$H(x)$，也就是说学的最完美的状态就是$H(x)$；输入是$x$这个就不再多说了，输入就是输入没啥好说的；中间的这一堆变化我们命名一下就称作是$F$吧。
 
@@ -59,7 +59,7 @@
 
 结合这个思路，以及之前*VGGNet*的结构，那么就产生了两种具体的残差块儿，分别运用在较低层数的网络架构以及较高层数的网络架构之上。
 
-<img src="https://img2024.cnblogs.com/blog/3693258/202601/3693258-20260124205542821-1939851722.png" alt="image-20260124204813075" style="zoom:80%;" />
+<img src="https://i0.hdslb.com/bfs/openplatform/68e4b97fa15f84a5084e7e0bfc1eb3ef828d6090.png" alt="image-20260124204813075" style="zoom:80%;" />
 
 这么一来就完美实现了残差连接的思想。
 
@@ -177,11 +177,11 @@ class ResNetBlock_50(nn.Module):
 
 最后结合论文中对*VGGNet*的网络变体，就产生了多种*ResNet*网络架构，如下图所示。
 
-![image-20260124205345665](assets/image-20260124205345665.png)
+![image-20260124205345665](https://i0.hdslb.com/bfs/openplatform/57233a05d234874b6c0b621b7ac7d605e07125c2.png)
 
 具体的数据就是表格中的一样。
 
-![image-20260124205152710](assets/image-20260124205152710.png)
+![image-20260124205152710](https://i0.hdslb.com/bfs/openplatform/0b251cf036ca98121b0ae44214e0c822cf5320ae.png)
 
 ```python
 class ResNet_18(nn.Module):

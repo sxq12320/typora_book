@@ -8,7 +8,7 @@
 
 ---
 
-![image-20260124143144695](https://img2024.cnblogs.com/blog/3693258/202601/3693258-20260124160207837-1299537957.png)
+![image-20260124143144695](https://i0.hdslb.com/bfs/openplatform/04f8a1eb575dd2f5cb9d2c61023f00b07a8346b4.png)
 
 ---
 
@@ -25,7 +25,7 @@
 1. 提高网络层数-深度
 2. 提高单层网络的通道数量-宽度
 
-> ![image-20260124144728773](https://img2024.cnblogs.com/blog/3693258/202601/3693258-20260124160206250-551855185.png)
+> ![image-20260124144728773](https://i0.hdslb.com/bfs/openplatform/ccd25f0e3350dc59cfc3398299ab976feb564ed5.png)
 >
 > 上面的图片可以看成是一个神经网络系统模型。
 >
@@ -55,7 +55,7 @@
 
 现在对该模块进行剖析。*Inception*模块如下图所示
 
-![image-20260124145310983](https://img2024.cnblogs.com/blog/3693258/202601/3693258-20260124160209961-211430197.png)
+![image-20260124145310983](https://i0.hdslb.com/bfs/openplatform/b8d20c5b5e19220ddebdf8b1a5c369be6bfb8ad8.png)
 首先偏向理性的对这个模块进行说明：这个模块的信息流流向是**从下到上**的上一步骤的图片进入的模型之中形成产生了四个分支，从左往右分别为：
 
 1. $1\times 1 $大小的一次小型卷积操作；
@@ -87,7 +87,7 @@
 
 到这里*GoogleNet*的最值得说的也就说完了。他的整体框架就放在下面，可以复现一下试试效果。
 
-![image-20260124154033397](https://img2024.cnblogs.com/blog/3693258/202601/3693258-20260124160212384-1029974768.png)
+![image-20260124154033397](https://i0.hdslb.com/bfs/openplatform/1fe4c74280b02bfed375b19086bc8642454b6afb.png)
 
 ---
 
@@ -215,7 +215,7 @@ class GoogleNet(nn.Module):
 
 > 实在是太长了
 
-![image-20260124154357179](assets/image-20260124154357179.png)
+![image-20260124154357179](https://i0.hdslb.com/bfs/openplatform/fa559eeac6fde2ac2a227fe8898937224731a743.png)
 
 
 
